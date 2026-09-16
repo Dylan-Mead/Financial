@@ -26,11 +26,27 @@ class pgsql:
         self.pdf = None
     #    self.cudf = None
 
+    def get_inspector(self):
+        return self.inspector
+
     def refresh_inspector(self):
-        self.inspector = inspect(self.engine)
+        try:
+            self.inspector = inspect(self.engine)
+            return True
+        except Exception as e:
+            print(f"Error refreshing inspector: {e}")
+            return False
 
     def set_table_name(self, table_name = ""):
-        self.table_name = table_name
+        try:
+            self.table_name = table_name
+            return True
+        except Exception as e:
+            print(f"Error setting table name: {e}")
+            return False
+
+    def get_table_name(self):
+        return self.table_name
 
     def get_tables(self):
         return self.inspector.get_table_names()
@@ -51,16 +67,31 @@ class pgsql:
         ]
     
     def set_pdf(self, pdf = pd.DataFrame()):
-        self.pdf = pdf
+        try:
+            self.pdf = pdf
+            return True
+        except Exception as e:
+            print(f"Error setting Pandas DataFrame: {e}")
+            return False
 
     def get_pdf(self):
         return self.pdf
 
     def clear_pdf(self):
-        self.pdf = None
+        try:
+            self.pdf = None
+            return True
+        except Exception as e:
+            print(f"Error clearing Pandas DataFrame: {e}")
+            return False
 
     def clear_dataframes(self):
-        self.clear_pdf()
+        try:
+            self.clear_pdf()
+            return True
+        except Exception as e:
+            print(f"Error clearing Pandas DataFrame: {e}")
+            return False
 
     def check_pdf_compatability(self):
         #Check if columns names and types of pandas dataframe and sql table are compatible
@@ -76,21 +107,23 @@ class pgsql:
         return True
 
     def write_pdf_to_sql(self):
-        if not self.check_pdf_compatability():
-            raise ValueError("PDF is not compatible with SQL table")
-        self.pdf.to_sql(self.table_name, self.engine, if_exists="replace", index=False)
+        try:
+            if not self.check_pdf_compatability():
+                raise ValueError("PDF is not compatible with SQL table")
+            self.pdf.to_sql(self.table_name, self.engine, if_exists="replace", index=False)
+            return True
+        except Exception as e:
+            print(f"Error writing Pandas DataFrame to SQL: {e}")
+            return False
 
     def get_table_as_pdf(self):
-        self.pdf = pd.read_sql_table(self.table_name, self.engine)
         return self.pdf
 
 
     #next we need a function that can return a subset of the sql table using a SQL query as a string
-    def get_table_subset_as_pdf(self, query):
-        self.pdf = pd.read_sql_query(query, self.engine)
-        return self.pdf
+    def return_query_as_df(self, query):
+        return pd.read_sql_query(query, self.engine)
 
     def get_table_subset_as_pdf_with_where_clauses(self, where_clauses={}):
         query = "SELECT * FROM " + self.table_name + " WHERE " + " AND ".join([f"{k} = {v}" for k, v in where_clauses.items()])
-        self.pdf = pd.read_sql_query(query, self.engine)
-        return self.pdf
+        return pd.read_sql_query(query, self.engine)
