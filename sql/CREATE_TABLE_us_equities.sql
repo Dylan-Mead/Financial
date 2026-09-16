@@ -1,0 +1,36 @@
+DROP TABLE IF EXISTS us_equities CASCADE;
+CREATE TABLE us_equities (
+    id                   CHAR(36) PRIMARY KEY,       -- Format: YYYYMMDD (e.g., 20260907)
+    class                VARCHAR(255) NOT NULL,
+    exchange             VARCHAR(255) NOT NULL,
+    symbol               VARCHAR(255) NOT NULL,
+    name                 VARCHAR(255) NOT NULL,
+    status               VARCHAR(255) NOT NULL,
+    tradable             BOOLEAN NOT NULL,
+    marginable           BOOLEAN NOT NULL,
+    maintenance_margin_requirement INT NOT NULL,
+    margin_requirement_long VARCHAR(255) NOT NULL,
+    margin_requirement_short VARCHAR(255) NOT NULL,
+    shortable            BOOLEAN NOT NULL,
+    easy_to_borrow       BOOLEAN NOT NULL,
+    borrow_status        VARCHAR(255) NOT NULL,
+    fractionable         BOOLEAN NOT NULL,
+    attributes           JSONB NOT NULL,
+
+--        "id": "74e36620-d3b4-4fc1-9694-8b00d518e037",
+--        "class": "us_equity",
+--        "exchange": "OTC",
+--        "symbol": "IMAQW",
+--        "name": "INTERNATIONAL MEDIA ACQUISITION CORP Warrant   07/23/2031",
+--        "status": "active",
+--        "tradable": false,
+--        "marginable": false,
+--        "maintenance_margin_requirement": 100,
+--        "margin_requirement_long": "100",
+--        "margin_requirement_short": "100",
+--        "shortable": false,
+--        "easy_to_borrow": false,
+--        "borrow_status": "hard_to_borrow",
+--        "fractionable": false,
+--        "attributes": []
+);

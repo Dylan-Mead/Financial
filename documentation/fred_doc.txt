@@ -1,0 +1,41 @@
+#to install fred api:
+pip install fredapi
+
+#to import fred:
+from fredapi import Fred
+
+#to retrieve fred api key:
+import keyring
+service = "fred"
+api_key = keyring.get_password(service, "api_key")
+#api_secret = keyring.get_password(service, "ALPACA_SECRET_KEY")
+
+#to instantiate a fred api connector client:
+fred = Fred(api_key=api_key)
+
+#to get series info, with example response:
+unrate_info = fred.get_series_info("UNRATE")
+
+type(unrate_info)
+pandas.Series
+
+print(unrate_info)
+
+id                                                                      UNRATE
+realtime_start                                                      2026-09-04
+realtime_end                                                        2026-09-04
+title                                                        Unemployment Rate
+observation_start                                                   1948-01-01
+observation_end                                                     2026-08-01
+frequency                                                              Monthly
+frequency_short                                                              M
+units                                                                  Percent
+units_short                                                                  %
+seasonal_adjustment                                        Seasonally Adjusted
+seasonal_adjustment_short                                                   SA
+last_updated                                            2026-09-04 08:27:31-05
+popularity                                                                  96
+notes                        The unemployment rate represents the number of...
+dtype: str
+
+#

@@ -1,0 +1,75 @@
+Public Data Sources:
+
+FRED: https://fred.stlouisfed.org
+	exchange rates: https://fred.stlouisfed.org/categories/94
+		EUR:	DEXUSEU
+		JPY:	DEXJPUS
+		GBP:	DEXUSUK
+		AUD:	DEXUSAL
+		CNY:	DEXCHUS
+		INR:	DEXINUS
+		BRL:	DEXBZUS
+		CAD:	DEXCAUS
+		SZF:	DEXSZUS
+		HKD:	DEXHKUS
+		MXP:	DEXMXUS
+		NZD:	DEXUSNZ
+	interest rates: https://fred.stlouisfed.org/categories/22
+		10 year - 2 year:	T10Y2Y
+		10 year - 3 month:	T10Y3M
+		10 Y break even rate:	T10YIE
+		Cred Card rate:		TERMCBCCALLNS
+		Total Cons Cred:	TOTALSL
+	CPI: https://fred.stlouisfed.org/categories/9
+		CPI raw:		CPIAUCSL
+		CPI FED:		PCEPI
+		CPI Sticky:		CORESTICKM159SFRBATL
+	Delinquencies: https://fred.stlouisfed.org/categories/32440
+		Credit Card:		DRCCLACBS
+		Mortgage:		DRSFRMACBS
+		All Consumer:		DRCLACBS
+		Biz Loans:		DRBLACBS
+		Farm rate:		DRFLACBS
+		Total $:		DALLCCACBEP
+	Employment: https://fred.stlouisfed.org/categories/11
+		Biz Serv people:	USPBS
+		Accountants:		CES6054120001
+		Construction:		USCONS
+		Unemployment rate:	UNRATE
+		Job Openings Rate:	JTSJOR
+		Unemployment level:	UNEMPLOY
+		Labor Force:		PAYEMS
+		Trucker Count:		CEU4348400001
+		Labor Part Men:		LNS11300001
+		Labor Part Wom:		LNS11300002
+		Black Women %:		LNS11300032
+		Teens %:		LNS11300012
+		Init Claims:		ICSA
+	money velocity: https://fred.stlouisfed.org/series/M2V
+		M1:			M1V
+		M2:			M2V
+	monetary velocity: https://fred.stlouisfed.org/series/BOGMBASE
+		Amount of Money:	BOGMBASE
+		Reserve Balances:	BOGMBBM
+		Currency in Circ:	MBCURRCIR
+	crypto prices: https://fred.stlouisfed.org/categories/33913
+		Bitcoin:		CBBTCUSD
+		Etherium:		CBETHUSD
+		BTC Cash:		CBBCHUSD
+		LiteCoin:		CBLTCUSD
+	producer price index: https://fred.stlouisfed.org/series/PPIACO
+		All:			PPIACO
+		Manu:			PCUOMFGOMFG
+		Info:			PCUAINFOAINFO
+		Transpo:		PCUATRNWRATRNWR
+	Wealth:
+		1% share of wealth:	WFRBST01134
+		net worth heldmby 1%:	WFRBLT01026
+		share 50 - 90:		WFRBSN40188
+		share  bottom 50:	WFRBSB50215
+	Energy:
+		US Diesal Price:	GASDESW
+		kW/h US:		APU000072610
+		global E index:		PNRGINDEXM
+	GDP:
+		Infl Adj GDP:		GDPC1
