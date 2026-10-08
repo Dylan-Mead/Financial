@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/Financial.egg-info/PKG-INFO
+src/Financial.egg-info/SOURCES.txt
+src/Financial.egg-info/dependency_links.txt
+src/Financial.egg-info/top_level.txt
+src/data_acquisition/api_client.py
+src/db/fred_updater.py
+src/db/pg.py
+src/db/pgsql.py
+src/trading/alpaca_client.py
+src/visualization/plots.py
+tests/test_placeholder.py

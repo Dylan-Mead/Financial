@@ -52,11 +52,6 @@ FRED: https://fred.stlouisfed.org
 		Amount of Money:	BOGMBASE
 		Reserve Balances:	BOGMBBM
 		Currency in Circ:	MBCURRCIR
-	crypto prices: https://fred.stlouisfed.org/categories/33913
-		Bitcoin:		CBBTCUSD
-		Etherium:		CBETHUSD
-		BTC Cash:		CBBCHUSD
-		LiteCoin:		CBLTCUSD
 	producer price index: https://fred.stlouisfed.org/series/PPIACO
 		All:			PPIACO
 		Manu:			PCUOMFGOMFG
