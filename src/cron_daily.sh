@@ -7,4 +7,5 @@ SCRIPT_DIR="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 "$PROJECT_ROOT/.venv/bin/python" "$SCRIPT_DIR/db/fred_updater.py"
+"$PROJECT_ROOT/.venv/bin/python" "$SCRIPT_DIR/db/alpaca_updater.py"
 
