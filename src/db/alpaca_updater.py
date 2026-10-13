@@ -12,6 +12,7 @@ from time import sleep
 import pandas as pd
 import keyring
 import requests
+from alpaca.data.enums import DataFeed
 from alpaca.data.historical import StockHistoricalDataClient
 from alpaca.data.requests import StockBarsRequest
 from alpaca.data.timeframe import TimeFrame
@@ -22,7 +23,7 @@ from sqlalchemy.engine import Connection
 from db.pgsql import pgsql
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-TICKERS_FILE = PROJECT_ROOT / "documentation" / "sp500_tickers.txt"
+TICKERS_FILE = PROJECT_ROOT / "documentation" / "alpaca_tickers.txt"
 SP500_URL = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
 WIKIPEDIA_HEADERS = {
     "User-Agent": "FinancialTickerUpdater/1.0 (contact: your-email@example.com)"
@@ -100,9 +101,13 @@ def fetch_bars(
         timeframe=TimeFrame.Day,
         start=start,
         end=end,
+        feed=DataFeed.IEX,
     )
-    return bars_to_dataframe(client.get_stock_bars(request), ticker)
-
+    try:
+        return bars_to_dataframe(client.get_stock_bars(request), ticker)
+    except Exception as error:
+        raise RuntimeError(f"Failed to fetch bars for {ticker}: {error}") from error
+        return pd.DataFrame()
 
 def write_bars(db: pgsql, ticker: str, dataframe: pd.DataFrame) -> None:
     if dataframe.empty:
@@ -142,7 +147,7 @@ def update_ticker(
             return
         dataframe = fetch_bars(client, ticker, start, today)
         dataframe = dataframe[dataframe["timestamp"] > max_timestamp]
-
+    sleep(1)
     write_bars(db, ticker, dataframe)
     print(f"{ticker}: appended {len(dataframe)} rows")
 
@@ -150,10 +155,21 @@ def update_ticker(
 def update_sp500_tables() -> None:
     load_dotenv()
     saved_tickers = set(load_saved_tickers())
-    current_tickers = load_sp500_tickers()
-    added_tickers = set(current_tickers) - saved_tickers
+    try:
+        sp500_tickers = load_sp500_tickers()
+    except Exception as error:
+        print(f"Warning: failed to refresh S&P 500 ticker list from Wikipedia ({error}); "
+              "skipping the S&P 500 addition check for this run")
+        sp500_tickers = []
+
+    # Wikipedia is only used to discover brand-new S&P 500 tickers. Tickers
+    # that drop off the official list (or are added manually) stay in
+    # TICKERS_FILE and keep getting updated below.
+    added_tickers = set(sp500_tickers) - saved_tickers
     if added_tickers:
         print(f"S&P 500 additions: {sorted(added_tickers)}")
+
+    all_tickers = sorted(saved_tickers | added_tickers)
 
     api_key = os.getenv("ALPACA_API_KEY") or keyring.get_password(
         "api.alpaca.markets", "ALPACA_API_KEY"
@@ -169,10 +185,11 @@ def update_sp500_tables() -> None:
     today = datetime.now(timezone.utc)
 
     with db.get_engine().begin() as connection:
-        for ticker in current_tickers:
+        for ticker in all_tickers:
+#            print(ticker)
             try:
                 update_ticker(client, db, connection, ticker, today)
-                sleep(1)
+                #sleep(1)
             except Exception as error:
                 raise RuntimeError(f"Failed while updating {ticker}") from error
 
