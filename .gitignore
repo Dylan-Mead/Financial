@@ -1,3 +1,4 @@
 .env
+cron_daily.log
 cron_hourly.log
 .venv
