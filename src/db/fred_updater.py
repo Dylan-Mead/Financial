@@ -1,11 +1,11 @@
 # this script will mostly mirror what was done in fred_updater.ipynb
 #the purpose will be to check if our fred data in sql data should be updated and if so grab fresh data and append to the sql tables
 #intended to be run daily via cron to keep fred tables up to date (does not do the initial 1990 backfill)
+import os
 import re
 from pathlib import Path
 from time import sleep
 
-import keyring
 import pandas as pd
 from dotenv import load_dotenv
 from fredapi import Fred
@@ -13,7 +13,9 @@ from sqlalchemy import text
 
 from db.pgsql import pgsql
 
-FRED_IDS_FILE = Path(__file__).resolve().parents[2] / "documentation" / "fred_ids.txt"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+FRED_IDS_FILE = PROJECT_ROOT / "documentation" / "fred_ids.txt"
+
 VALID_SERIES_ID = re.compile(r"^[A-Za-z0-9_]+$")
 
 DATE_DELTA_BY_FREQUENCY = {
@@ -36,8 +38,12 @@ def load_fred_ids() -> list[str]:
 
 
 def update_fred_tables():
-    load_dotenv()
-    api_key = keyring.get_password("fred", "api_key")
+    load_dotenv(PROJECT_ROOT / ".env")
+    api_key = os.getenv("FRED_API_KEY")
+    if not api_key:
+        raise ValueError(
+            f"FRED_API_KEY must be set in {PROJECT_ROOT / '.env'} or the environment."
+        )
     fred = Fred(api_key=api_key)
 
     db = pgsql()
@@ -94,4 +100,3 @@ def update_fred_tables():
 
 if __name__ == "__main__":
     update_fred_tables()
-

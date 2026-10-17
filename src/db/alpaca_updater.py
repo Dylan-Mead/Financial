@@ -10,7 +10,6 @@ from pathlib import Path
 from time import sleep
 
 import pandas as pd
-import keyring
 import requests
 from alpaca.data.enums import DataFeed
 from alpaca.data.historical import StockHistoricalDataClient
@@ -81,7 +80,12 @@ def normalize_timestamp(value: object) -> pd.Timestamp:
 
 def bars_to_dataframe(bars: object, ticker: str) -> pd.DataFrame:
     """Convert an Alpaca bar response to the table shape used by this project."""
-    dataframe = bars.df.reset_index()
+    dataframe = bars.df
+    if dataframe.empty:
+        return pd.DataFrame(
+            {"timestamp": pd.Series(dtype="datetime64[ns, UTC]")}
+        )
+    dataframe = dataframe.reset_index()
     if "symbol" in dataframe.columns:
         dataframe = dataframe.drop(columns=["symbol"])
     if "timestamp" not in dataframe.columns:
@@ -107,7 +111,6 @@ def fetch_bars(
         return bars_to_dataframe(client.get_stock_bars(request), ticker)
     except Exception as error:
         raise RuntimeError(f"Failed to fetch bars for {ticker}: {error}") from error
-        return pd.DataFrame()
 
 def write_bars(db: pgsql, ticker: str, dataframe: pd.DataFrame) -> None:
     if dataframe.empty:
@@ -125,6 +128,8 @@ def update_ticker(
     ticker: str,
     today: datetime,
 ) -> None:
+    if len(ticker) == 0:
+        return
     table_name = ticker.lower()
     table_exists = inspect(db.get_engine()).has_table(table_name)
 
@@ -153,7 +158,7 @@ def update_ticker(
 
 
 def update_sp500_tables() -> None:
-    load_dotenv()
+    load_dotenv(PROJECT_ROOT / ".env")
     saved_tickers = set(load_saved_tickers())
     try:
         sp500_tickers = load_sp500_tickers()
@@ -171,14 +176,13 @@ def update_sp500_tables() -> None:
 
     all_tickers = sorted(saved_tickers | added_tickers)
 
-    api_key = os.getenv("ALPACA_API_KEY") or keyring.get_password(
-        "api.alpaca.markets", "ALPACA_API_KEY"
-    )
-    secret_key = os.getenv("ALPACA_SECRET_KEY") or keyring.get_password(
-        "api.alpaca.markets", "ALPACA_SECRET_KEY"
-    )
+    api_key = os.getenv("ALPACA_API_KEY")
+    secret_key = os.getenv("ALPACA_SECRET_KEY")
     if not api_key or not secret_key:
-        raise RuntimeError("ALPACA_API_KEY and ALPACA_SECRET_KEY must be configured")
+        raise RuntimeError(
+            "ALPACA_API_KEY and ALPACA_SECRET_KEY must be set in "
+            f"{PROJECT_ROOT / '.env'} or the environment."
+        )
 
     db = pgsql()
     client = StockHistoricalDataClient(api_key, secret_key)

@@ -56,6 +56,11 @@ class pgsql:
     def get_tables(self):
         return self.inspector.get_table_names()
 
+    def table_exists(self, table_name = ""):
+        if table_name == "":
+            table_name = self.table_name
+        return bool(self.inspector.has_table(table_name))
+
     def get_sql_description(self, table_name = "", schema = "public"):
         if table_name == "":
             table_name = self.table_name
