@@ -22,6 +22,7 @@ ASSETS_US_EQUITY_FILE = PROJECT_ROOT / "tests" / "assets_us_equity.json"
 MAX_REQUEST_ATTEMPTS = 4
 INITIAL_RETRY_DELAY_SECONDS = 5
 RETRYABLE_STATUS_CODES = {408, 429, 500, 502, 503, 504}
+lookback_hours = 1
 
 
 
@@ -67,7 +68,7 @@ def get_symbols_from_file(ticker_file):
 ENDPOINT = "https://data.alpaca.markets/v1beta1/news"
 PAGE_SIZE = 50
 SYMBOLS_PER_REQUEST = 40
-LOOKBACK = timedelta(hours=1)
+LOOKBACK = timedelta(hours=lookback_hours)
 
 end_time = datetime.now(timezone.utc)
 start_time = end_time - LOOKBACK

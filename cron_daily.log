@@ -813,3 +813,2917 @@ ZBRA: appended 0 rows
 ZTS: appended 0 rows
 Sat Oct 17 01:12:23 PM PDT 2026
 Financial repo daily cron job end.
+Financial repo daily cron job start.
+Sun Oct 18 03:00:01 AM PDT 2026
+Starting fred_updater.py
+Max date for DEXUSEU: 2026-10-09 00:00:00
+Frequency short for DEXUSEU: D
+Next read day for DEXUSEU: 2026-10-10 00:00:00
+Fetching data for DEXUSEU starting from 2026-10-10 00:00:00
+No new data returned for DEXUSEU, skipping
+Max date for DEXJPUS: 2026-10-09 00:00:00
+Frequency short for DEXJPUS: D
+Next read day for DEXJPUS: 2026-10-10 00:00:00
+Fetching data for DEXJPUS starting from 2026-10-10 00:00:00
+No new data returned for DEXJPUS, skipping
+Max date for DEXUSUK: 2026-10-09 00:00:00
+Frequency short for DEXUSUK: D
+Next read day for DEXUSUK: 2026-10-10 00:00:00
+Fetching data for DEXUSUK starting from 2026-10-10 00:00:00
+No new data returned for DEXUSUK, skipping
+Max date for DEXUSAL: 2026-10-09 00:00:00
+Frequency short for DEXUSAL: D
+Next read day for DEXUSAL: 2026-10-10 00:00:00
+Fetching data for DEXUSAL starting from 2026-10-10 00:00:00
+No new data returned for DEXUSAL, skipping
+Max date for DEXCHUS: 2026-10-09 00:00:00
+Frequency short for DEXCHUS: D
+Next read day for DEXCHUS: 2026-10-10 00:00:00
+Fetching data for DEXCHUS starting from 2026-10-10 00:00:00
+No new data returned for DEXCHUS, skipping
+Max date for DEXINUS: 2026-10-09 00:00:00
+Frequency short for DEXINUS: D
+Next read day for DEXINUS: 2026-10-10 00:00:00
+Fetching data for DEXINUS starting from 2026-10-10 00:00:00
+No new data returned for DEXINUS, skipping
+Max date for DEXBZUS: 2026-10-09 00:00:00
+Frequency short for DEXBZUS: D
+Next read day for DEXBZUS: 2026-10-10 00:00:00
+Fetching data for DEXBZUS starting from 2026-10-10 00:00:00
+No new data returned for DEXBZUS, skipping
+Max date for DEXCAUS: 2026-10-09 00:00:00
+Frequency short for DEXCAUS: D
+Next read day for DEXCAUS: 2026-10-10 00:00:00
+Fetching data for DEXCAUS starting from 2026-10-10 00:00:00
+No new data returned for DEXCAUS, skipping
+Max date for DEXSZUS: 2026-10-09 00:00:00
+Frequency short for DEXSZUS: D
+Next read day for DEXSZUS: 2026-10-10 00:00:00
+Fetching data for DEXSZUS starting from 2026-10-10 00:00:00
+No new data returned for DEXSZUS, skipping
+Max date for DEXHKUS: 2026-10-09 00:00:00
+Frequency short for DEXHKUS: D
+Next read day for DEXHKUS: 2026-10-10 00:00:00
+Fetching data for DEXHKUS starting from 2026-10-10 00:00:00
+No new data returned for DEXHKUS, skipping
+Max date for DEXMXUS: 2026-10-09 00:00:00
+Frequency short for DEXMXUS: D
+Next read day for DEXMXUS: 2026-10-10 00:00:00
+Fetching data for DEXMXUS starting from 2026-10-10 00:00:00
+No new data returned for DEXMXUS, skipping
+Max date for DEXUSNZ: 2026-10-09 00:00:00
+Frequency short for DEXUSNZ: D
+Next read day for DEXUSNZ: 2026-10-10 00:00:00
+Fetching data for DEXUSNZ starting from 2026-10-10 00:00:00
+No new data returned for DEXUSNZ, skipping
+Max date for T10Y2Y: 2026-10-16 00:00:00
+Frequency short for T10Y2Y: D
+Next read day for T10Y2Y: 2026-10-17 00:00:00
+Fetching data for T10Y2Y starting from 2026-10-17 00:00:00
+No new data returned for T10Y2Y, skipping
+Max date for T10Y3M: 2026-10-16 00:00:00
+Frequency short for T10Y3M: D
+Next read day for T10Y3M: 2026-10-17 00:00:00
+Fetching data for T10Y3M starting from 2026-10-17 00:00:00
+No new data returned for T10Y3M, skipping
+Max date for T10YIE: 2026-10-16 00:00:00
+Frequency short for T10YIE: D
+Next read day for T10YIE: 2026-10-17 00:00:00
+Fetching data for T10YIE starting from 2026-10-17 00:00:00
+No new data returned for T10YIE, skipping
+Max date for TERMCBCCALLNS: 2026-08-01 00:00:00
+Frequency short for TERMCBCCALLNS: M
+Next read day for TERMCBCCALLNS: 2026-08-31 00:00:00
+Fetching data for TERMCBCCALLNS starting from 2026-08-31 00:00:00
+No new data to append for TERMCBCCALLNS, skipping
+Max date for TOTALSL: 2026-08-01 00:00:00
+Frequency short for TOTALSL: M
+Next read day for TOTALSL: 2026-08-31 00:00:00
+Fetching data for TOTALSL starting from 2026-08-31 00:00:00
+No new data to append for TOTALSL, skipping
+Max date for CPIAUCSL: 2026-09-01 00:00:00
+Frequency short for CPIAUCSL: M
+Next read day for CPIAUCSL: 2026-10-01 00:00:00
+Fetching data for CPIAUCSL starting from 2026-10-01 00:00:00
+No new data returned for CPIAUCSL, skipping
+Max date for PCEPI: 2026-08-01 00:00:00
+Frequency short for PCEPI: M
+Next read day for PCEPI: 2026-08-31 00:00:00
+Fetching data for PCEPI starting from 2026-08-31 00:00:00
+No new data to append for PCEPI, skipping
+Max date for CORESTICKM159SFRBATL: 2026-09-01 00:00:00
+Frequency short for CORESTICKM159SFRBATL: M
+Next read day for CORESTICKM159SFRBATL: 2026-10-01 00:00:00
+Fetching data for CORESTICKM159SFRBATL starting from 2026-10-01 00:00:00
+No new data returned for CORESTICKM159SFRBATL, skipping
+Max date for DRCCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCCLACBS: Q
+Next read day for DRCCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCCLACBS, skipping
+Max date for DRSFRMACBS: 2026-04-01 00:00:00
+Frequency short for DRSFRMACBS: Q
+Next read day for DRSFRMACBS: 2026-07-01 00:00:00
+Fetching data for DRSFRMACBS starting from 2026-07-01 00:00:00
+No new data returned for DRSFRMACBS, skipping
+Max date for DRCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCLACBS: Q
+Next read day for DRCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCLACBS, skipping
+Max date for DRBLACBS: 2026-04-01 00:00:00
+Frequency short for DRBLACBS: Q
+Next read day for DRBLACBS: 2026-07-01 00:00:00
+Fetching data for DRBLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRBLACBS, skipping
+Max date for DRFLACBS: 2026-04-01 00:00:00
+Frequency short for DRFLACBS: Q
+Next read day for DRFLACBS: 2026-07-01 00:00:00
+Fetching data for DRFLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRFLACBS, skipping
+Max date for DALLCCACBEP: 2026-04-01 00:00:00
+Frequency short for DALLCCACBEP: Q
+Next read day for DALLCCACBEP: 2026-07-01 00:00:00
+Fetching data for DALLCCACBEP starting from 2026-07-01 00:00:00
+No new data returned for DALLCCACBEP, skipping
+Max date for USPBS: 2026-09-01 00:00:00
+Frequency short for USPBS: M
+Next read day for USPBS: 2026-10-01 00:00:00
+Fetching data for USPBS starting from 2026-10-01 00:00:00
+No new data returned for USPBS, skipping
+Max date for CES6054120001: 2026-09-01 00:00:00
+Frequency short for CES6054120001: M
+Next read day for CES6054120001: 2026-10-01 00:00:00
+Fetching data for CES6054120001 starting from 2026-10-01 00:00:00
+No new data returned for CES6054120001, skipping
+Max date for USCONS: 2026-09-01 00:00:00
+Frequency short for USCONS: M
+Next read day for USCONS: 2026-10-01 00:00:00
+Fetching data for USCONS starting from 2026-10-01 00:00:00
+No new data returned for USCONS, skipping
+Max date for UNRATE: 2026-09-01 00:00:00
+Frequency short for UNRATE: M
+Next read day for UNRATE: 2026-10-01 00:00:00
+Fetching data for UNRATE starting from 2026-10-01 00:00:00
+No new data returned for UNRATE, skipping
+Max date for JTSJOR: 2026-08-01 00:00:00
+Frequency short for JTSJOR: M
+Next read day for JTSJOR: 2026-08-31 00:00:00
+Fetching data for JTSJOR starting from 2026-08-31 00:00:00
+No new data to append for JTSJOR, skipping
+Max date for UNEMPLOY: 2026-09-01 00:00:00
+Frequency short for UNEMPLOY: M
+Next read day for UNEMPLOY: 2026-10-01 00:00:00
+Fetching data for UNEMPLOY starting from 2026-10-01 00:00:00
+No new data returned for UNEMPLOY, skipping
+Max date for PAYEMS: 2026-09-01 00:00:00
+Frequency short for PAYEMS: M
+Next read day for PAYEMS: 2026-10-01 00:00:00
+Fetching data for PAYEMS starting from 2026-10-01 00:00:00
+No new data returned for PAYEMS, skipping
+Max date for CEU4348400001: 2026-09-01 00:00:00
+Frequency short for CEU4348400001: M
+Next read day for CEU4348400001: 2026-10-01 00:00:00
+Fetching data for CEU4348400001 starting from 2026-10-01 00:00:00
+No new data returned for CEU4348400001, skipping
+Max date for LNS11300001: 2026-09-01 00:00:00
+Frequency short for LNS11300001: M
+Next read day for LNS11300001: 2026-10-01 00:00:00
+Fetching data for LNS11300001 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300001, skipping
+Max date for LNS11300002: 2026-09-01 00:00:00
+Frequency short for LNS11300002: M
+Next read day for LNS11300002: 2026-10-01 00:00:00
+Fetching data for LNS11300002 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300002, skipping
+Max date for LNS11300032: 2026-09-01 00:00:00
+Frequency short for LNS11300032: M
+Next read day for LNS11300032: 2026-10-01 00:00:00
+Fetching data for LNS11300032 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300032, skipping
+Max date for LNS11300012: 2026-09-01 00:00:00
+Frequency short for LNS11300012: M
+Next read day for LNS11300012: 2026-10-01 00:00:00
+Fetching data for LNS11300012 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300012, skipping
+Max date for ICSA: 2026-10-10 00:00:00
+Frequency short for ICSA: W
+Next read day for ICSA: 2026-10-17 00:00:00
+Fetching data for ICSA starting from 2026-10-17 00:00:00
+No new data returned for ICSA, skipping
+Max date for M1V: 2026-04-01 00:00:00
+Frequency short for M1V: Q
+Next read day for M1V: 2026-07-01 00:00:00
+Fetching data for M1V starting from 2026-07-01 00:00:00
+No new data returned for M1V, skipping
+Max date for M2V: 2026-04-01 00:00:00
+Frequency short for M2V: Q
+Next read day for M2V: 2026-07-01 00:00:00
+Fetching data for M2V starting from 2026-07-01 00:00:00
+No new data returned for M2V, skipping
+Max date for BOGMBASE: 2026-08-01 00:00:00
+Frequency short for BOGMBASE: M
+Next read day for BOGMBASE: 2026-08-31 00:00:00
+Fetching data for BOGMBASE starting from 2026-08-31 00:00:00
+No new data to append for BOGMBASE, skipping
+Max date for BOGMBBM: 2026-08-01 00:00:00
+Frequency short for BOGMBBM: M
+Next read day for BOGMBBM: 2026-08-31 00:00:00
+Fetching data for BOGMBBM starting from 2026-08-31 00:00:00
+No new data to append for BOGMBBM, skipping
+Max date for MBCURRCIR: 2026-08-01 00:00:00
+Frequency short for MBCURRCIR: M
+Next read day for MBCURRCIR: 2026-08-31 00:00:00
+Fetching data for MBCURRCIR starting from 2026-08-31 00:00:00
+No new data to append for MBCURRCIR, skipping
+Max date for PPIACO: 2026-09-01 00:00:00
+Frequency short for PPIACO: M
+Next read day for PPIACO: 2026-10-01 00:00:00
+Fetching data for PPIACO starting from 2026-10-01 00:00:00
+No new data returned for PPIACO, skipping
+Max date for PCUOMFGOMFG: 2026-09-01 00:00:00
+Frequency short for PCUOMFGOMFG: M
+Next read day for PCUOMFGOMFG: 2026-10-01 00:00:00
+Fetching data for PCUOMFGOMFG starting from 2026-10-01 00:00:00
+No new data returned for PCUOMFGOMFG, skipping
+Max date for PCUAINFOAINFO: 2026-09-01 00:00:00
+Frequency short for PCUAINFOAINFO: M
+Next read day for PCUAINFOAINFO: 2026-10-01 00:00:00
+Fetching data for PCUAINFOAINFO starting from 2026-10-01 00:00:00
+No new data returned for PCUAINFOAINFO, skipping
+Max date for PCUATRNWRATRNWR: 2026-09-01 00:00:00
+Frequency short for PCUATRNWRATRNWR: M
+Next read day for PCUATRNWRATRNWR: 2026-10-01 00:00:00
+Fetching data for PCUATRNWRATRNWR starting from 2026-10-01 00:00:00
+No new data returned for PCUATRNWRATRNWR, skipping
+Max date for WFRBST01134: 2026-04-01 00:00:00
+Frequency short for WFRBST01134: Q
+Next read day for WFRBST01134: 2026-07-01 00:00:00
+Fetching data for WFRBST01134 starting from 2026-07-01 00:00:00
+No new data returned for WFRBST01134, skipping
+Max date for WFRBLT01026: 2026-04-01 00:00:00
+Frequency short for WFRBLT01026: Q
+Next read day for WFRBLT01026: 2026-07-01 00:00:00
+Fetching data for WFRBLT01026 starting from 2026-07-01 00:00:00
+No new data returned for WFRBLT01026, skipping
+Max date for WFRBSN40188: 2026-04-01 00:00:00
+Frequency short for WFRBSN40188: Q
+Next read day for WFRBSN40188: 2026-07-01 00:00:00
+Fetching data for WFRBSN40188 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSN40188, skipping
+Max date for WFRBSB50215: 2026-04-01 00:00:00
+Frequency short for WFRBSB50215: Q
+Next read day for WFRBSB50215: 2026-07-01 00:00:00
+Fetching data for WFRBSB50215 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSB50215, skipping
+Max date for GASDESW: 2026-10-12 00:00:00
+Frequency short for GASDESW: W
+Next read day for GASDESW: 2026-10-19 00:00:00
+Max date for APU000072610: 2026-09-01 00:00:00
+Frequency short for APU000072610: M
+Next read day for APU000072610: 2026-10-01 00:00:00
+Fetching data for APU000072610 starting from 2026-10-01 00:00:00
+No new data returned for APU000072610, skipping
+Max date for PNRGINDEXM: 2026-07-01 00:00:00
+Frequency short for PNRGINDEXM: M
+Next read day for PNRGINDEXM: 2026-07-31 00:00:00
+Fetching data for PNRGINDEXM starting from 2026-07-31 00:00:00
+No new data to append for PNRGINDEXM, skipping
+Max date for GDPC1: 2026-04-01 00:00:00
+Frequency short for GDPC1: Q
+Next read day for GDPC1: 2026-07-01 00:00:00
+Fetching data for GDPC1 starting from 2026-07-01 00:00:00
+No new data returned for GDPC1, skipping
+Max date for PSAVERT: 2026-08-01 00:00:00
+Frequency short for PSAVERT: M
+Next read day for PSAVERT: 2026-08-31 00:00:00
+Fetching data for PSAVERT starting from 2026-08-31 00:00:00
+No new data to append for PSAVERT, skipping
+Max date for TLCOMCONS: 2026-08-01 00:00:00
+Frequency short for TLCOMCONS: M
+Next read day for TLCOMCONS: 2026-08-31 00:00:00
+Fetching data for TLCOMCONS starting from 2026-08-31 00:00:00
+No new data to append for TLCOMCONS, skipping
+Max date for TLRESCONS: 2026-08-01 00:00:00
+Frequency short for TLRESCONS: M
+Next read day for TLRESCONS: 2026-08-31 00:00:00
+Fetching data for TLRESCONS starting from 2026-08-31 00:00:00
+No new data to append for TLRESCONS, skipping
+Sun Oct 18 03:02:28 AM PDT 2026
+Starting alpaca_updater.py
+A: appended 0 rows
+AAPL: appended 0 rows
+ABBV: appended 0 rows
+ABNB: appended 0 rows
+ABT: appended 0 rows
+ACGL: appended 0 rows
+ACN: appended 0 rows
+ADBE: appended 0 rows
+ADI: appended 0 rows
+ADM: appended 0 rows
+ADP: appended 0 rows
+ADSK: appended 0 rows
+AEE: appended 0 rows
+AEP: appended 0 rows
+AES: appended 0 rows
+AFL: appended 0 rows
+AIG: appended 0 rows
+AIZ: appended 0 rows
+AJG: appended 0 rows
+AKAM: appended 0 rows
+ALB: appended 0 rows
+ALGN: appended 0 rows
+ALL: appended 0 rows
+ALLE: appended 0 rows
+AMAT: appended 0 rows
+AMCR: appended 0 rows
+AMD: appended 0 rows
+AME: appended 0 rows
+AMGN: appended 0 rows
+AMP: appended 0 rows
+AMT: appended 0 rows
+AMZN: appended 0 rows
+ANET: appended 0 rows
+AON: appended 0 rows
+AOS: appended 0 rows
+APA: appended 0 rows
+APD: appended 0 rows
+APH: appended 0 rows
+APO: appended 0 rows
+APP: appended 0 rows
+APTV: appended 0 rows
+ARE: appended 0 rows
+ARES: appended 0 rows
+ATO: appended 0 rows
+AVGO: appended 0 rows
+AVY: appended 0 rows
+AWK: appended 0 rows
+AXON: appended 0 rows
+AXP: appended 0 rows
+AZO: appended 0 rows
+BA: appended 0 rows
+BAC: appended 0 rows
+BALL: appended 0 rows
+BAX: appended 0 rows
+BBY: appended 0 rows
+BDX: appended 0 rows
+BE: appended 0 rows
+BEN: appended 0 rows
+BF.B: appended 0 rows
+BG: appended 0 rows
+BIIB: appended 0 rows
+BKNG: appended 0 rows
+BKR: appended 0 rows
+BLK: appended 0 rows
+BMY: appended 0 rows
+BNY: appended 0 rows
+BR: appended 0 rows
+BRK.B: appended 0 rows
+BRO: appended 0 rows
+BSX: appended 0 rows
+BX: appended 0 rows
+BXP: appended 0 rows
+C: appended 0 rows
+CAH: appended 0 rows
+CARR: appended 0 rows
+CASY: appended 0 rows
+CAT: appended 0 rows
+CB: appended 0 rows
+CBOE: appended 0 rows
+CBRE: appended 0 rows
+CCI: appended 0 rows
+CCL: appended 0 rows
+CDNS: appended 0 rows
+CDW: appended 0 rows
+CEG: appended 0 rows
+CELH: appended 0 rows
+CF: appended 0 rows
+CFG: appended 0 rows
+CHD: appended 0 rows
+CHRW: appended 0 rows
+CHTR: appended 0 rows
+CI: appended 0 rows
+CIEN: appended 0 rows
+CINF: appended 0 rows
+CL: appended 0 rows
+CLX: appended 0 rows
+CMCSA: appended 0 rows
+CME: appended 0 rows
+CMG: appended 0 rows
+CMI: appended 0 rows
+CMS: appended 0 rows
+CNC: appended 0 rows
+CNP: appended 0 rows
+COF: appended 0 rows
+COHR: appended 0 rows
+COIN: appended 0 rows
+COO: appended 0 rows
+COP: appended 0 rows
+COR: appended 0 rows
+COST: appended 0 rows
+CPAY: appended 0 rows
+CPRT: appended 0 rows
+CPT: appended 0 rows
+CRH: appended 0 rows
+CRL: appended 0 rows
+CRM: appended 0 rows
+CRWD: appended 0 rows
+CSCO: appended 0 rows
+CSGP: appended 0 rows
+CSX: appended 0 rows
+CTAS: appended 0 rows
+CTSH: appended 0 rows
+CVNA: appended 0 rows
+CVS: appended 0 rows
+CVX: appended 0 rows
+D: appended 0 rows
+DAL: appended 0 rows
+DASH: appended 0 rows
+DD: appended 0 rows
+DDOG: appended 0 rows
+DE: appended 0 rows
+DECK: appended 0 rows
+DELL: appended 0 rows
+DG: appended 0 rows
+DGX: appended 0 rows
+DHI: appended 0 rows
+DHR: appended 0 rows
+DIS: appended 0 rows
+DLR: appended 0 rows
+DLTR: appended 0 rows
+DOC: appended 0 rows
+DOV: appended 0 rows
+DOW: appended 0 rows
+DPZ: appended 0 rows
+DRI: appended 0 rows
+DTE: appended 0 rows
+DUK: appended 0 rows
+DVA: appended 0 rows
+DVN: appended 0 rows
+DXCM: appended 0 rows
+EBAY: appended 0 rows
+ECHO: appended 0 rows
+ECL: appended 0 rows
+ED: appended 0 rows
+EFX: appended 0 rows
+EG: appended 0 rows
+EIX: appended 0 rows
+EL: appended 0 rows
+ELV: appended 0 rows
+EME: appended 0 rows
+EMR: appended 0 rows
+EOG: appended 0 rows
+EQIX: appended 0 rows
+EQT: appended 0 rows
+ERIE: appended 0 rows
+ES: appended 0 rows
+ESS: appended 0 rows
+ETN: appended 0 rows
+ETR: appended 0 rows
+EVRG: appended 0 rows
+EW: appended 0 rows
+EXC: appended 0 rows
+EXE: appended 0 rows
+EXPD: appended 0 rows
+EXPE: appended 0 rows
+EXR: appended 0 rows
+F: appended 0 rows
+FANG: appended 0 rows
+FAST: appended 0 rows
+FCX: appended 0 rows
+FDS: appended 0 rows
+FDX: appended 0 rows
+FDXF: appended 0 rows
+FE: appended 0 rows
+FERG: appended 0 rows
+FFIV: appended 0 rows
+FICO: appended 0 rows
+FIS: appended 0 rows
+FISV: appended 0 rows
+FITB: appended 0 rows
+FIX: appended 0 rows
+FLEX: appended 0 rows
+FOX: appended 0 rows
+FOXA: appended 0 rows
+FRT: appended 0 rows
+FSLR: appended 0 rows
+FTNT: appended 0 rows
+FTV: appended 0 rows
+GD: appended 0 rows
+GDDY: appended 0 rows
+GE: appended 0 rows
+GEHC: appended 0 rows
+GEN: appended 0 rows
+GEV: appended 0 rows
+GILD: appended 0 rows
+GIS: appended 0 rows
+GL: appended 0 rows
+GLW: appended 0 rows
+GM: appended 0 rows
+GNRC: appended 0 rows
+GOOG: appended 0 rows
+GOOGL: appended 0 rows
+GPC: appended 0 rows
+GPN: appended 0 rows
+GRMN: appended 0 rows
+GS: appended 0 rows
+GWW: appended 0 rows
+HAL: appended 0 rows
+HAS: appended 0 rows
+HBAN: appended 0 rows
+HCA: appended 0 rows
+HD: appended 0 rows
+HIG: appended 0 rows
+HII: appended 0 rows
+HLT: appended 0 rows
+HON: appended 0 rows
+HONA: appended 0 rows
+HOOD: appended 0 rows
+HPE: appended 0 rows
+HPQ: appended 0 rows
+HRL: appended 0 rows
+HSIC: appended 0 rows
+HST: appended 0 rows
+HSY: appended 0 rows
+HUBB: appended 0 rows
+HUM: appended 0 rows
+HWM: appended 0 rows
+IBKR: appended 0 rows
+IBM: appended 0 rows
+ICE: appended 0 rows
+IDXX: appended 0 rows
+IEX: appended 0 rows
+IFF: appended 0 rows
+ILMN: appended 0 rows
+INCY: appended 0 rows
+INTC: appended 0 rows
+INTU: appended 0 rows
+INVH: appended 0 rows
+IP: appended 0 rows
+IQV: appended 0 rows
+IR: appended 0 rows
+IRM: appended 0 rows
+ISRG: appended 0 rows
+IT: appended 0 rows
+ITW: appended 0 rows
+IVZ: appended 0 rows
+J: appended 0 rows
+JBHT: appended 0 rows
+JBL: appended 0 rows
+JCI: appended 0 rows
+JKHY: appended 0 rows
+JNJ: appended 0 rows
+JPM: appended 0 rows
+KDP: appended 0 rows
+KEY: appended 0 rows
+KEYS: appended 0 rows
+KHC: appended 0 rows
+KIM: appended 0 rows
+KKR: appended 0 rows
+KLAC: appended 0 rows
+KMB: appended 0 rows
+KMI: appended 0 rows
+KO: appended 0 rows
+KR: appended 0 rows
+KVUE: appended 0 rows
+L: appended 0 rows
+LDOS: appended 0 rows
+LEN: appended 0 rows
+LH: appended 0 rows
+LHX: appended 0 rows
+LII: appended 0 rows
+LIN: appended 0 rows
+LITE: appended 0 rows
+LLY: appended 0 rows
+LMT: appended 0 rows
+LNT: appended 0 rows
+LOW: appended 0 rows
+LRCX: appended 0 rows
+LULU: appended 0 rows
+LUV: appended 0 rows
+LVS: appended 0 rows
+LYB: appended 0 rows
+LYV: appended 0 rows
+MA: appended 0 rows
+MAA: appended 0 rows
+MAR: appended 0 rows
+MAS: appended 0 rows
+MCD: appended 0 rows
+MCHP: appended 0 rows
+MCK: appended 0 rows
+MCO: appended 0 rows
+MDLZ: appended 0 rows
+MDT: appended 0 rows
+MET: appended 0 rows
+META: appended 0 rows
+MGM: appended 0 rows
+MKC: appended 0 rows
+MLM: appended 0 rows
+MMM: appended 0 rows
+MNST: appended 0 rows
+MO: appended 0 rows
+MOS: appended 0 rows
+MPC: appended 0 rows
+MPWR: appended 0 rows
+MRK: appended 0 rows
+MRNA: appended 0 rows
+MRSH: appended 0 rows
+MRVL: appended 0 rows
+MS: appended 0 rows
+MSCI: appended 0 rows
+MSFT: appended 0 rows
+MSI: appended 0 rows
+MTB: appended 0 rows
+MTD: appended 0 rows
+MU: appended 0 rows
+NCLH: appended 0 rows
+NDAQ: appended 0 rows
+NDSN: appended 0 rows
+NEE: appended 0 rows
+NEM: appended 0 rows
+NFLX: appended 0 rows
+NI: appended 0 rows
+NKE: appended 0 rows
+NOC: appended 0 rows
+NOW: appended 0 rows
+NRG: appended 0 rows
+NSC: appended 0 rows
+NTAP: appended 0 rows
+NTRS: appended 0 rows
+NUE: appended 0 rows
+NVDA: appended 0 rows
+NVR: appended 0 rows
+NWS: appended 0 rows
+NWSA: appended 0 rows
+NXPI: appended 0 rows
+O: appended 0 rows
+ODFL: appended 0 rows
+OKE: appended 0 rows
+OMC: appended 0 rows
+ON: appended 0 rows
+ORCL: appended 0 rows
+ORLY: appended 0 rows
+OTIS: appended 0 rows
+OXY: appended 0 rows
+P: appended 0 rows
+PANW: appended 0 rows
+PAYX: appended 0 rows
+PCAR: appended 0 rows
+PCG: appended 0 rows
+PEG: appended 0 rows
+PEP: appended 0 rows
+PFE: appended 0 rows
+PFG: appended 0 rows
+PG: appended 0 rows
+PGR: appended 0 rows
+PH: appended 0 rows
+PHM: appended 0 rows
+PKG: appended 0 rows
+PLD: appended 0 rows
+PLTR: appended 0 rows
+PM: appended 0 rows
+PNC: appended 0 rows
+PNR: appended 0 rows
+PNW: appended 0 rows
+PODD: appended 0 rows
+PPG: appended 0 rows
+PPL: appended 0 rows
+PRU: appended 0 rows
+PSA: appended 0 rows
+PSX: appended 0 rows
+PTC: appended 0 rows
+PWR: appended 0 rows
+PYPL: appended 0 rows
+Q: appended 0 rows
+QCOM: appended 0 rows
+RCL: appended 0 rows
+RDDT: appended 0 rows
+REG: appended 0 rows
+REGN: appended 0 rows
+RF: appended 0 rows
+RJF: appended 0 rows
+RL: appended 0 rows
+RMD: appended 0 rows
+ROK: appended 0 rows
+ROL: appended 0 rows
+ROP: appended 0 rows
+ROST: appended 0 rows
+RSG: appended 0 rows
+RTX: appended 0 rows
+RVTY: appended 0 rows
+SBAC: appended 0 rows
+SBUX: appended 0 rows
+SCHW: appended 0 rows
+SHW: appended 0 rows
+SJM: appended 0 rows
+SKYD: appended 0 rows
+SLB: appended 0 rows
+SMCI: appended 0 rows
+SNA: appended 0 rows
+SNDK: appended 0 rows
+SNPS: appended 0 rows
+SO: appended 0 rows
+SOLV: appended 0 rows
+SPG: appended 0 rows
+SPGI: appended 0 rows
+SRE: appended 0 rows
+STE: appended 0 rows
+STLD: appended 0 rows
+STT: appended 0 rows
+STX: appended 0 rows
+STZ: appended 0 rows
+SW: appended 0 rows
+SWK: appended 0 rows
+SWKS: appended 0 rows
+SYF: appended 0 rows
+SYK: appended 0 rows
+SYY: appended 0 rows
+T: appended 0 rows
+TDG: appended 0 rows
+TDY: appended 0 rows
+TECH: appended 0 rows
+TEL: appended 0 rows
+TER: appended 0 rows
+TFC: appended 0 rows
+TGT: appended 0 rows
+TJX: appended 0 rows
+TKO: appended 0 rows
+TMO: appended 0 rows
+TMUS: appended 0 rows
+TPL: appended 0 rows
+TPR: appended 0 rows
+TRGP: appended 0 rows
+TRMB: appended 0 rows
+TROW: appended 0 rows
+TRV: appended 0 rows
+TSCO: appended 0 rows
+TSLA: appended 0 rows
+TSN: appended 0 rows
+TT: appended 0 rows
+TTWO: appended 0 rows
+TWLO: appended 0 rows
+TXN: appended 0 rows
+TXT: appended 0 rows
+TYL: appended 0 rows
+UAL: appended 0 rows
+UBER: appended 0 rows
+UDR: appended 0 rows
+UHS: appended 0 rows
+ULTA: appended 0 rows
+UNH: appended 0 rows
+UNP: appended 0 rows
+UPS: appended 0 rows
+URI: appended 0 rows
+USB: appended 0 rows
+V: appended 0 rows
+VCLT: appended 0 rows
+VEEV: appended 0 rows
+VEU: appended 0 rows
+VGSH: appended 0 rows
+VGT: appended 0 rows
+VICI: appended 0 rows
+VIG: appended 0 rows
+VLO: appended 0 rows
+VLTO: appended 0 rows
+VMC: appended 0 rows
+VMRK: appended 0 rows
+VNQ: appended 0 rows
+VONG: appended 0 rows
+VOO: appended 0 rows
+VRSK: appended 0 rows
+VRSN: appended 0 rows
+VRT: appended 0 rows
+VRTX: appended 0 rows
+VST: appended 0 rows
+VT: appended 0 rows
+VTI: appended 0 rows
+VTR: appended 0 rows
+VTRS: appended 0 rows
+VXUS: appended 0 rows
+VYLR: appended 0 rows
+VZ: appended 0 rows
+WAB: appended 0 rows
+WAT: appended 0 rows
+WDAY: appended 0 rows
+WDC: appended 0 rows
+WEC: appended 0 rows
+WELL: appended 0 rows
+WFC: appended 0 rows
+WM: appended 0 rows
+WMB: appended 0 rows
+WMT: appended 0 rows
+WRB: appended 0 rows
+WSM: appended 0 rows
+WST: appended 0 rows
+WTW: appended 0 rows
+WY: appended 0 rows
+WYNN: appended 0 rows
+XEL: appended 0 rows
+XOM: appended 0 rows
+XYL: appended 0 rows
+XYZ: appended 0 rows
+YUM: appended 0 rows
+ZBH: appended 0 rows
+ZBRA: appended 0 rows
+ZTS: appended 0 rows
+Sun Oct 18 03:12:06 AM PDT 2026
+Financial repo daily cron job end.
+Financial repo daily cron job start.
+Mon Oct 19 03:00:01 AM PDT 2026
+Starting fred_updater.py
+Max date for DEXUSEU: 2026-10-09 00:00:00
+Frequency short for DEXUSEU: D
+Next read day for DEXUSEU: 2026-10-10 00:00:00
+Fetching data for DEXUSEU starting from 2026-10-10 00:00:00
+No new data returned for DEXUSEU, skipping
+Max date for DEXJPUS: 2026-10-09 00:00:00
+Frequency short for DEXJPUS: D
+Next read day for DEXJPUS: 2026-10-10 00:00:00
+Fetching data for DEXJPUS starting from 2026-10-10 00:00:00
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/fredapi/fred.py", line 84, in __fetch_data
+    response = urlopen(url)
+  File "/usr/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 493, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.14/urllib/request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.14/urllib/request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.14/urllib/request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 502: Bad Gateway
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/src/db/fred_updater.py", line 102, in <module>
+    update_fred_tables()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/djmead/Documents/Projects/Financial/src/db/fred_updater.py", line 80, in update_fred_tables
+    temp_fresh_data = fred.get_series(
+        series_id,
+        observation_start=next_read_day.strftime('%Y-%m-%d'),
+        observation_end=today_formatted,
+    )
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/fredapi/fred.py", line 151, in get_series
+    root = self.__fetch_data(url)
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/fredapi/fred.py", line 88, in __fetch_data
+    raise ValueError(root.get('message'))
+ValueError: None
+Mon Oct 19 03:00:08 AM PDT 2026
+Starting alpaca_updater.py
+A: appended 0 rows
+AAPL: appended 0 rows
+ABBV: appended 0 rows
+ABNB: appended 0 rows
+ABT: appended 0 rows
+ACGL: appended 0 rows
+ACN: appended 0 rows
+ADBE: appended 0 rows
+ADI: appended 0 rows
+ADM: appended 0 rows
+ADP: appended 0 rows
+ADSK: appended 0 rows
+AEE: appended 0 rows
+AEP: appended 0 rows
+AES: appended 0 rows
+AFL: appended 0 rows
+AIG: appended 0 rows
+AIZ: appended 0 rows
+AJG: appended 0 rows
+AKAM: appended 0 rows
+ALB: appended 0 rows
+ALGN: appended 0 rows
+ALL: appended 0 rows
+ALLE: appended 0 rows
+AMAT: appended 0 rows
+AMCR: appended 0 rows
+AMD: appended 0 rows
+AME: appended 0 rows
+AMGN: appended 0 rows
+AMP: appended 0 rows
+AMT: appended 0 rows
+AMZN: appended 0 rows
+ANET: appended 0 rows
+AON: appended 0 rows
+AOS: appended 0 rows
+APA: appended 0 rows
+APD: appended 0 rows
+APH: appended 0 rows
+APO: appended 0 rows
+APP: appended 0 rows
+APTV: appended 0 rows
+ARE: appended 0 rows
+ARES: appended 0 rows
+ATO: appended 0 rows
+AVGO: appended 0 rows
+AVY: appended 0 rows
+AWK: appended 0 rows
+AXON: appended 0 rows
+AXP: appended 0 rows
+AZO: appended 0 rows
+BA: appended 0 rows
+BAC: appended 0 rows
+BALL: appended 0 rows
+BAX: appended 0 rows
+BBY: appended 0 rows
+BDX: appended 0 rows
+BE: appended 0 rows
+BEN: appended 0 rows
+BF.B: appended 0 rows
+BG: appended 0 rows
+BIIB: appended 0 rows
+BKNG: appended 0 rows
+BKR: appended 0 rows
+BLK: appended 0 rows
+BMY: appended 0 rows
+BNY: appended 0 rows
+BR: appended 0 rows
+BRK.B: appended 0 rows
+BRO: appended 0 rows
+BSX: appended 0 rows
+BX: appended 0 rows
+BXP: appended 0 rows
+C: appended 0 rows
+CAH: appended 0 rows
+CARR: appended 0 rows
+CASY: appended 0 rows
+CAT: appended 0 rows
+CB: appended 0 rows
+CBOE: appended 0 rows
+CBRE: appended 0 rows
+CCI: appended 0 rows
+CCL: appended 0 rows
+CDNS: appended 0 rows
+CDW: appended 0 rows
+CEG: appended 0 rows
+CELH: appended 0 rows
+CF: appended 0 rows
+CFG: appended 0 rows
+CHD: appended 0 rows
+CHRW: appended 0 rows
+CHTR: appended 0 rows
+CI: appended 0 rows
+CIEN: appended 0 rows
+CINF: appended 0 rows
+CL: appended 0 rows
+CLX: appended 0 rows
+CMCSA: appended 0 rows
+CME: appended 0 rows
+CMG: appended 0 rows
+CMI: appended 0 rows
+CMS: appended 0 rows
+CNC: appended 0 rows
+CNP: appended 0 rows
+COF: appended 0 rows
+COHR: appended 0 rows
+COIN: appended 0 rows
+COO: appended 0 rows
+COP: appended 0 rows
+COR: appended 0 rows
+COST: appended 0 rows
+CPAY: appended 0 rows
+CPRT: appended 0 rows
+CPT: appended 0 rows
+CRH: appended 0 rows
+CRL: appended 0 rows
+CRM: appended 0 rows
+CRWD: appended 0 rows
+CSCO: appended 0 rows
+CSGP: appended 0 rows
+CSX: appended 0 rows
+CTAS: appended 0 rows
+CTSH: appended 0 rows
+CVNA: appended 0 rows
+CVS: appended 0 rows
+CVX: appended 0 rows
+D: appended 0 rows
+DAL: appended 0 rows
+DASH: appended 0 rows
+DD: appended 0 rows
+DDOG: appended 0 rows
+DE: appended 0 rows
+DECK: appended 0 rows
+DELL: appended 0 rows
+DG: appended 0 rows
+DGX: appended 0 rows
+DHI: appended 0 rows
+DHR: appended 0 rows
+DIS: appended 0 rows
+DLR: appended 0 rows
+DLTR: appended 0 rows
+DOC: appended 0 rows
+DOV: appended 0 rows
+DOW: appended 0 rows
+DPZ: appended 0 rows
+DRI: appended 0 rows
+DTE: appended 0 rows
+DUK: appended 0 rows
+DVA: appended 0 rows
+DVN: appended 0 rows
+DXCM: appended 0 rows
+EBAY: appended 0 rows
+ECHO: appended 0 rows
+ECL: appended 0 rows
+ED: appended 0 rows
+EFX: appended 0 rows
+EG: appended 0 rows
+EIX: appended 0 rows
+EL: appended 0 rows
+ELV: appended 0 rows
+EME: appended 0 rows
+EMR: appended 0 rows
+EOG: appended 0 rows
+EQIX: appended 0 rows
+EQT: appended 0 rows
+ERIE: appended 0 rows
+ES: appended 0 rows
+ESS: appended 0 rows
+ETN: appended 0 rows
+ETR: appended 0 rows
+EVRG: appended 0 rows
+EW: appended 0 rows
+EXC: appended 0 rows
+EXE: appended 0 rows
+EXPD: appended 0 rows
+EXPE: appended 0 rows
+EXR: appended 0 rows
+F: appended 0 rows
+FANG: appended 0 rows
+FAST: appended 0 rows
+FCX: appended 0 rows
+FDS: appended 0 rows
+FDX: appended 0 rows
+FDXF: appended 0 rows
+FE: appended 0 rows
+FERG: appended 0 rows
+FFIV: appended 0 rows
+FICO: appended 0 rows
+FIS: appended 0 rows
+FISV: appended 0 rows
+FITB: appended 0 rows
+FIX: appended 0 rows
+FLEX: appended 0 rows
+FOX: appended 0 rows
+FOXA: appended 0 rows
+FRT: appended 0 rows
+FSLR: appended 0 rows
+FTNT: appended 0 rows
+FTV: appended 0 rows
+GD: appended 0 rows
+GDDY: appended 0 rows
+GE: appended 0 rows
+GEHC: appended 0 rows
+GEN: appended 0 rows
+GEV: appended 0 rows
+GILD: appended 0 rows
+GIS: appended 0 rows
+GL: appended 0 rows
+GLW: appended 0 rows
+GM: appended 0 rows
+GNRC: appended 0 rows
+GOOG: appended 0 rows
+GOOGL: appended 0 rows
+GPC: appended 0 rows
+GPN: appended 0 rows
+GRMN: appended 0 rows
+GS: appended 0 rows
+GWW: appended 0 rows
+HAL: appended 0 rows
+HAS: appended 0 rows
+HBAN: appended 0 rows
+HCA: appended 0 rows
+HD: appended 0 rows
+HIG: appended 0 rows
+HII: appended 0 rows
+HLT: appended 0 rows
+HON: appended 0 rows
+HONA: appended 0 rows
+HOOD: appended 0 rows
+HPE: appended 0 rows
+HPQ: appended 0 rows
+HRL: appended 0 rows
+HSIC: appended 0 rows
+HST: appended 0 rows
+HSY: appended 0 rows
+HUBB: appended 0 rows
+HUM: appended 0 rows
+HWM: appended 0 rows
+IBKR: appended 0 rows
+IBM: appended 0 rows
+ICE: appended 0 rows
+IDXX: appended 0 rows
+IEX: appended 0 rows
+IFF: appended 0 rows
+ILMN: appended 0 rows
+INCY: appended 0 rows
+INTC: appended 0 rows
+INTU: appended 0 rows
+INVH: appended 0 rows
+IP: appended 0 rows
+IQV: appended 0 rows
+IR: appended 0 rows
+IRM: appended 0 rows
+ISRG: appended 0 rows
+IT: appended 0 rows
+ITW: appended 0 rows
+IVZ: appended 0 rows
+J: appended 0 rows
+JBHT: appended 0 rows
+JBL: appended 0 rows
+JCI: appended 0 rows
+JKHY: appended 0 rows
+JNJ: appended 0 rows
+JPM: appended 0 rows
+KDP: appended 0 rows
+KEY: appended 0 rows
+KEYS: appended 0 rows
+KHC: appended 0 rows
+KIM: appended 0 rows
+KKR: appended 0 rows
+KLAC: appended 0 rows
+KMB: appended 0 rows
+KMI: appended 0 rows
+KO: appended 0 rows
+KR: appended 0 rows
+KVUE: appended 0 rows
+L: appended 0 rows
+LDOS: appended 0 rows
+LEN: appended 0 rows
+LH: appended 0 rows
+LHX: appended 0 rows
+LII: appended 0 rows
+LIN: appended 0 rows
+LITE: appended 0 rows
+LLY: appended 0 rows
+LMT: appended 0 rows
+LNT: appended 0 rows
+LOW: appended 0 rows
+LRCX: appended 0 rows
+LULU: appended 0 rows
+LUV: appended 0 rows
+LVS: appended 0 rows
+LYB: appended 0 rows
+LYV: appended 0 rows
+MA: appended 0 rows
+MAA: appended 0 rows
+MAR: appended 0 rows
+MAS: appended 0 rows
+MCD: appended 0 rows
+MCHP: appended 0 rows
+MCK: appended 0 rows
+MCO: appended 0 rows
+MDLZ: appended 0 rows
+MDT: appended 0 rows
+MET: appended 0 rows
+META: appended 0 rows
+MGM: appended 0 rows
+MKC: appended 0 rows
+MLM: appended 0 rows
+MMM: appended 0 rows
+MNST: appended 0 rows
+MO: appended 0 rows
+MOS: appended 0 rows
+MPC: appended 0 rows
+MPWR: appended 0 rows
+MRK: appended 0 rows
+MRNA: appended 0 rows
+MRSH: appended 0 rows
+MRVL: appended 0 rows
+MS: appended 0 rows
+MSCI: appended 0 rows
+MSFT: appended 0 rows
+MSI: appended 0 rows
+MTB: appended 0 rows
+MTD: appended 0 rows
+MU: appended 0 rows
+NCLH: appended 0 rows
+NDAQ: appended 0 rows
+NDSN: appended 0 rows
+NEE: appended 0 rows
+NEM: appended 0 rows
+NFLX: appended 0 rows
+NI: appended 0 rows
+NKE: appended 0 rows
+NOC: appended 0 rows
+NOW: appended 0 rows
+NRG: appended 0 rows
+NSC: appended 0 rows
+NTAP: appended 0 rows
+NTRS: appended 0 rows
+NUE: appended 0 rows
+NVDA: appended 0 rows
+NVR: appended 0 rows
+NWS: appended 0 rows
+NWSA: appended 0 rows
+NXPI: appended 0 rows
+O: appended 0 rows
+ODFL: appended 0 rows
+OKE: appended 0 rows
+OMC: appended 0 rows
+ON: appended 0 rows
+ORCL: appended 0 rows
+ORLY: appended 0 rows
+OTIS: appended 0 rows
+OXY: appended 0 rows
+P: appended 0 rows
+PANW: appended 0 rows
+PAYX: appended 0 rows
+PCAR: appended 0 rows
+PCG: appended 0 rows
+PEG: appended 0 rows
+PEP: appended 0 rows
+PFE: appended 0 rows
+PFG: appended 0 rows
+PG: appended 0 rows
+PGR: appended 0 rows
+PH: appended 0 rows
+PHM: appended 0 rows
+PKG: appended 0 rows
+PLD: appended 0 rows
+PLTR: appended 0 rows
+PM: appended 0 rows
+PNC: appended 0 rows
+PNR: appended 0 rows
+PNW: appended 0 rows
+PODD: appended 0 rows
+PPG: appended 0 rows
+PPL: appended 0 rows
+PRU: appended 0 rows
+PSA: appended 0 rows
+PSX: appended 0 rows
+PTC: appended 0 rows
+PWR: appended 0 rows
+PYPL: appended 0 rows
+Q: appended 0 rows
+QCOM: appended 0 rows
+RCL: appended 0 rows
+RDDT: appended 0 rows
+REG: appended 0 rows
+REGN: appended 0 rows
+RF: appended 0 rows
+RJF: appended 0 rows
+RL: appended 0 rows
+RMD: appended 0 rows
+ROK: appended 0 rows
+ROL: appended 0 rows
+ROP: appended 0 rows
+ROST: appended 0 rows
+RSG: appended 0 rows
+RTX: appended 0 rows
+RVTY: appended 0 rows
+SBAC: appended 0 rows
+SBUX: appended 0 rows
+SCHW: appended 0 rows
+SHW: appended 0 rows
+SJM: appended 0 rows
+SKYD: appended 0 rows
+SLB: appended 0 rows
+SMCI: appended 0 rows
+SNA: appended 0 rows
+SNDK: appended 0 rows
+SNPS: appended 0 rows
+SO: appended 0 rows
+SOLV: appended 0 rows
+SPG: appended 0 rows
+SPGI: appended 0 rows
+SRE: appended 0 rows
+STE: appended 0 rows
+STLD: appended 0 rows
+STT: appended 0 rows
+STX: appended 0 rows
+STZ: appended 0 rows
+SW: appended 0 rows
+SWK: appended 0 rows
+SWKS: appended 0 rows
+SYF: appended 0 rows
+SYK: appended 0 rows
+SYY: appended 0 rows
+T: appended 0 rows
+TDG: appended 0 rows
+TDY: appended 0 rows
+TECH: appended 0 rows
+TEL: appended 0 rows
+TER: appended 0 rows
+TFC: appended 0 rows
+TGT: appended 0 rows
+TJX: appended 0 rows
+TKO: appended 0 rows
+TMO: appended 0 rows
+TMUS: appended 0 rows
+TPL: appended 0 rows
+TPR: appended 0 rows
+TRGP: appended 0 rows
+TRMB: appended 0 rows
+TROW: appended 0 rows
+TRV: appended 0 rows
+TSCO: appended 0 rows
+TSLA: appended 0 rows
+TSN: appended 0 rows
+TT: appended 0 rows
+TTWO: appended 0 rows
+TWLO: appended 0 rows
+TXN: appended 0 rows
+TXT: appended 0 rows
+TYL: appended 0 rows
+UAL: appended 0 rows
+UBER: appended 0 rows
+UDR: appended 0 rows
+UHS: appended 0 rows
+ULTA: appended 0 rows
+UNH: appended 0 rows
+UNP: appended 0 rows
+UPS: appended 0 rows
+URI: appended 0 rows
+USB: appended 0 rows
+V: appended 0 rows
+VCLT: appended 0 rows
+VEEV: appended 0 rows
+VEU: appended 0 rows
+VGSH: appended 0 rows
+VGT: appended 0 rows
+VICI: appended 0 rows
+VIG: appended 0 rows
+VLO: appended 0 rows
+VLTO: appended 0 rows
+VMC: appended 0 rows
+VMRK: appended 0 rows
+VNQ: appended 0 rows
+VONG: appended 0 rows
+VOO: appended 0 rows
+VRSK: appended 0 rows
+VRSN: appended 0 rows
+VRT: appended 0 rows
+VRTX: appended 0 rows
+VST: appended 0 rows
+VT: appended 0 rows
+VTI: appended 0 rows
+VTR: appended 0 rows
+VTRS: appended 0 rows
+VXUS: appended 0 rows
+VYLR: appended 0 rows
+VZ: appended 0 rows
+WAB: appended 0 rows
+WAT: appended 0 rows
+WDAY: appended 0 rows
+WDC: appended 0 rows
+WEC: appended 0 rows
+WELL: appended 0 rows
+WFC: appended 0 rows
+WM: appended 0 rows
+WMB: appended 0 rows
+WMT: appended 0 rows
+WRB: appended 0 rows
+WSM: appended 0 rows
+WST: appended 0 rows
+WTW: appended 0 rows
+WY: appended 0 rows
+WYNN: appended 0 rows
+XEL: appended 0 rows
+XOM: appended 0 rows
+XYL: appended 0 rows
+XYZ: appended 0 rows
+YUM: appended 0 rows
+ZBH: appended 0 rows
+ZBRA: appended 0 rows
+ZTS: appended 0 rows
+Mon Oct 19 03:09:50 AM PDT 2026
+Financial repo daily cron job end.
+Financial repo daily cron job start.
+Tue Oct 20 03:00:01 AM PDT 2026
+Starting fred_updater.py
+Max date for DEXUSEU: 2026-10-09 00:00:00
+Frequency short for DEXUSEU: D
+Next read day for DEXUSEU: 2026-10-10 00:00:00
+Fetching data for DEXUSEU starting from 2026-10-10 00:00:00
+Max date for DEXJPUS: 2026-10-09 00:00:00
+Frequency short for DEXJPUS: D
+Next read day for DEXJPUS: 2026-10-10 00:00:00
+Fetching data for DEXJPUS starting from 2026-10-10 00:00:00
+Max date for DEXUSUK: 2026-10-09 00:00:00
+Frequency short for DEXUSUK: D
+Next read day for DEXUSUK: 2026-10-10 00:00:00
+Fetching data for DEXUSUK starting from 2026-10-10 00:00:00
+Max date for DEXUSAL: 2026-10-09 00:00:00
+Frequency short for DEXUSAL: D
+Next read day for DEXUSAL: 2026-10-10 00:00:00
+Fetching data for DEXUSAL starting from 2026-10-10 00:00:00
+Max date for DEXCHUS: 2026-10-09 00:00:00
+Frequency short for DEXCHUS: D
+Next read day for DEXCHUS: 2026-10-10 00:00:00
+Fetching data for DEXCHUS starting from 2026-10-10 00:00:00
+Max date for DEXINUS: 2026-10-09 00:00:00
+Frequency short for DEXINUS: D
+Next read day for DEXINUS: 2026-10-10 00:00:00
+Fetching data for DEXINUS starting from 2026-10-10 00:00:00
+Max date for DEXBZUS: 2026-10-09 00:00:00
+Frequency short for DEXBZUS: D
+Next read day for DEXBZUS: 2026-10-10 00:00:00
+Fetching data for DEXBZUS starting from 2026-10-10 00:00:00
+Max date for DEXCAUS: 2026-10-09 00:00:00
+Frequency short for DEXCAUS: D
+Next read day for DEXCAUS: 2026-10-10 00:00:00
+Fetching data for DEXCAUS starting from 2026-10-10 00:00:00
+Max date for DEXSZUS: 2026-10-09 00:00:00
+Frequency short for DEXSZUS: D
+Next read day for DEXSZUS: 2026-10-10 00:00:00
+Fetching data for DEXSZUS starting from 2026-10-10 00:00:00
+Max date for DEXHKUS: 2026-10-09 00:00:00
+Frequency short for DEXHKUS: D
+Next read day for DEXHKUS: 2026-10-10 00:00:00
+Fetching data for DEXHKUS starting from 2026-10-10 00:00:00
+Max date for DEXMXUS: 2026-10-09 00:00:00
+Frequency short for DEXMXUS: D
+Next read day for DEXMXUS: 2026-10-10 00:00:00
+Fetching data for DEXMXUS starting from 2026-10-10 00:00:00
+Max date for DEXUSNZ: 2026-10-09 00:00:00
+Frequency short for DEXUSNZ: D
+Next read day for DEXUSNZ: 2026-10-10 00:00:00
+Fetching data for DEXUSNZ starting from 2026-10-10 00:00:00
+Max date for T10Y2Y: 2026-10-16 00:00:00
+Frequency short for T10Y2Y: D
+Next read day for T10Y2Y: 2026-10-17 00:00:00
+Fetching data for T10Y2Y starting from 2026-10-17 00:00:00
+Max date for T10Y3M: 2026-10-16 00:00:00
+Frequency short for T10Y3M: D
+Next read day for T10Y3M: 2026-10-17 00:00:00
+Fetching data for T10Y3M starting from 2026-10-17 00:00:00
+Max date for T10YIE: 2026-10-16 00:00:00
+Frequency short for T10YIE: D
+Next read day for T10YIE: 2026-10-17 00:00:00
+Fetching data for T10YIE starting from 2026-10-17 00:00:00
+Max date for TERMCBCCALLNS: 2026-08-01 00:00:00
+Frequency short for TERMCBCCALLNS: M
+Next read day for TERMCBCCALLNS: 2026-08-31 00:00:00
+Fetching data for TERMCBCCALLNS starting from 2026-08-31 00:00:00
+No new data to append for TERMCBCCALLNS, skipping
+Max date for TOTALSL: 2026-08-01 00:00:00
+Frequency short for TOTALSL: M
+Next read day for TOTALSL: 2026-08-31 00:00:00
+Fetching data for TOTALSL starting from 2026-08-31 00:00:00
+No new data to append for TOTALSL, skipping
+Max date for CPIAUCSL: 2026-09-01 00:00:00
+Frequency short for CPIAUCSL: M
+Next read day for CPIAUCSL: 2026-10-01 00:00:00
+Fetching data for CPIAUCSL starting from 2026-10-01 00:00:00
+No new data returned for CPIAUCSL, skipping
+Max date for PCEPI: 2026-08-01 00:00:00
+Frequency short for PCEPI: M
+Next read day for PCEPI: 2026-08-31 00:00:00
+Fetching data for PCEPI starting from 2026-08-31 00:00:00
+No new data to append for PCEPI, skipping
+Max date for CORESTICKM159SFRBATL: 2026-09-01 00:00:00
+Frequency short for CORESTICKM159SFRBATL: M
+Next read day for CORESTICKM159SFRBATL: 2026-10-01 00:00:00
+Fetching data for CORESTICKM159SFRBATL starting from 2026-10-01 00:00:00
+No new data returned for CORESTICKM159SFRBATL, skipping
+Max date for DRCCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCCLACBS: Q
+Next read day for DRCCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCCLACBS, skipping
+Max date for DRSFRMACBS: 2026-04-01 00:00:00
+Frequency short for DRSFRMACBS: Q
+Next read day for DRSFRMACBS: 2026-07-01 00:00:00
+Fetching data for DRSFRMACBS starting from 2026-07-01 00:00:00
+No new data returned for DRSFRMACBS, skipping
+Max date for DRCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCLACBS: Q
+Next read day for DRCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCLACBS, skipping
+Max date for DRBLACBS: 2026-04-01 00:00:00
+Frequency short for DRBLACBS: Q
+Next read day for DRBLACBS: 2026-07-01 00:00:00
+Fetching data for DRBLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRBLACBS, skipping
+Max date for DRFLACBS: 2026-04-01 00:00:00
+Frequency short for DRFLACBS: Q
+Next read day for DRFLACBS: 2026-07-01 00:00:00
+Fetching data for DRFLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRFLACBS, skipping
+Max date for DALLCCACBEP: 2026-04-01 00:00:00
+Frequency short for DALLCCACBEP: Q
+Next read day for DALLCCACBEP: 2026-07-01 00:00:00
+Fetching data for DALLCCACBEP starting from 2026-07-01 00:00:00
+No new data returned for DALLCCACBEP, skipping
+Max date for USPBS: 2026-09-01 00:00:00
+Frequency short for USPBS: M
+Next read day for USPBS: 2026-10-01 00:00:00
+Fetching data for USPBS starting from 2026-10-01 00:00:00
+No new data returned for USPBS, skipping
+Max date for CES6054120001: 2026-09-01 00:00:00
+Frequency short for CES6054120001: M
+Next read day for CES6054120001: 2026-10-01 00:00:00
+Fetching data for CES6054120001 starting from 2026-10-01 00:00:00
+No new data returned for CES6054120001, skipping
+Max date for USCONS: 2026-09-01 00:00:00
+Frequency short for USCONS: M
+Next read day for USCONS: 2026-10-01 00:00:00
+Fetching data for USCONS starting from 2026-10-01 00:00:00
+No new data returned for USCONS, skipping
+Max date for UNRATE: 2026-09-01 00:00:00
+Frequency short for UNRATE: M
+Next read day for UNRATE: 2026-10-01 00:00:00
+Fetching data for UNRATE starting from 2026-10-01 00:00:00
+No new data returned for UNRATE, skipping
+Max date for JTSJOR: 2026-08-01 00:00:00
+Frequency short for JTSJOR: M
+Next read day for JTSJOR: 2026-08-31 00:00:00
+Fetching data for JTSJOR starting from 2026-08-31 00:00:00
+No new data to append for JTSJOR, skipping
+Max date for UNEMPLOY: 2026-09-01 00:00:00
+Frequency short for UNEMPLOY: M
+Next read day for UNEMPLOY: 2026-10-01 00:00:00
+Fetching data for UNEMPLOY starting from 2026-10-01 00:00:00
+No new data returned for UNEMPLOY, skipping
+Max date for PAYEMS: 2026-09-01 00:00:00
+Frequency short for PAYEMS: M
+Next read day for PAYEMS: 2026-10-01 00:00:00
+Fetching data for PAYEMS starting from 2026-10-01 00:00:00
+No new data returned for PAYEMS, skipping
+Max date for CEU4348400001: 2026-09-01 00:00:00
+Frequency short for CEU4348400001: M
+Next read day for CEU4348400001: 2026-10-01 00:00:00
+Fetching data for CEU4348400001 starting from 2026-10-01 00:00:00
+No new data returned for CEU4348400001, skipping
+Max date for LNS11300001: 2026-09-01 00:00:00
+Frequency short for LNS11300001: M
+Next read day for LNS11300001: 2026-10-01 00:00:00
+Fetching data for LNS11300001 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300001, skipping
+Max date for LNS11300002: 2026-09-01 00:00:00
+Frequency short for LNS11300002: M
+Next read day for LNS11300002: 2026-10-01 00:00:00
+Fetching data for LNS11300002 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300002, skipping
+Max date for LNS11300032: 2026-09-01 00:00:00
+Frequency short for LNS11300032: M
+Next read day for LNS11300032: 2026-10-01 00:00:00
+Fetching data for LNS11300032 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300032, skipping
+Max date for LNS11300012: 2026-09-01 00:00:00
+Frequency short for LNS11300012: M
+Next read day for LNS11300012: 2026-10-01 00:00:00
+Fetching data for LNS11300012 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300012, skipping
+Max date for ICSA: 2026-10-10 00:00:00
+Frequency short for ICSA: W
+Next read day for ICSA: 2026-10-17 00:00:00
+Fetching data for ICSA starting from 2026-10-17 00:00:00
+No new data returned for ICSA, skipping
+Max date for M1V: 2026-04-01 00:00:00
+Frequency short for M1V: Q
+Next read day for M1V: 2026-07-01 00:00:00
+Fetching data for M1V starting from 2026-07-01 00:00:00
+No new data returned for M1V, skipping
+Max date for M2V: 2026-04-01 00:00:00
+Frequency short for M2V: Q
+Next read day for M2V: 2026-07-01 00:00:00
+Fetching data for M2V starting from 2026-07-01 00:00:00
+No new data returned for M2V, skipping
+Max date for BOGMBASE: 2026-08-01 00:00:00
+Frequency short for BOGMBASE: M
+Next read day for BOGMBASE: 2026-08-31 00:00:00
+Fetching data for BOGMBASE starting from 2026-08-31 00:00:00
+No new data to append for BOGMBASE, skipping
+Max date for BOGMBBM: 2026-08-01 00:00:00
+Frequency short for BOGMBBM: M
+Next read day for BOGMBBM: 2026-08-31 00:00:00
+Fetching data for BOGMBBM starting from 2026-08-31 00:00:00
+No new data to append for BOGMBBM, skipping
+Max date for MBCURRCIR: 2026-08-01 00:00:00
+Frequency short for MBCURRCIR: M
+Next read day for MBCURRCIR: 2026-08-31 00:00:00
+Fetching data for MBCURRCIR starting from 2026-08-31 00:00:00
+No new data to append for MBCURRCIR, skipping
+Max date for PPIACO: 2026-09-01 00:00:00
+Frequency short for PPIACO: M
+Next read day for PPIACO: 2026-10-01 00:00:00
+Fetching data for PPIACO starting from 2026-10-01 00:00:00
+No new data returned for PPIACO, skipping
+Max date for PCUOMFGOMFG: 2026-09-01 00:00:00
+Frequency short for PCUOMFGOMFG: M
+Next read day for PCUOMFGOMFG: 2026-10-01 00:00:00
+Fetching data for PCUOMFGOMFG starting from 2026-10-01 00:00:00
+No new data returned for PCUOMFGOMFG, skipping
+Max date for PCUAINFOAINFO: 2026-09-01 00:00:00
+Frequency short for PCUAINFOAINFO: M
+Next read day for PCUAINFOAINFO: 2026-10-01 00:00:00
+Fetching data for PCUAINFOAINFO starting from 2026-10-01 00:00:00
+No new data returned for PCUAINFOAINFO, skipping
+Max date for PCUATRNWRATRNWR: 2026-09-01 00:00:00
+Frequency short for PCUATRNWRATRNWR: M
+Next read day for PCUATRNWRATRNWR: 2026-10-01 00:00:00
+Fetching data for PCUATRNWRATRNWR starting from 2026-10-01 00:00:00
+No new data returned for PCUATRNWRATRNWR, skipping
+Max date for WFRBST01134: 2026-04-01 00:00:00
+Frequency short for WFRBST01134: Q
+Next read day for WFRBST01134: 2026-07-01 00:00:00
+Fetching data for WFRBST01134 starting from 2026-07-01 00:00:00
+No new data returned for WFRBST01134, skipping
+Max date for WFRBLT01026: 2026-04-01 00:00:00
+Frequency short for WFRBLT01026: Q
+Next read day for WFRBLT01026: 2026-07-01 00:00:00
+Fetching data for WFRBLT01026 starting from 2026-07-01 00:00:00
+No new data returned for WFRBLT01026, skipping
+Max date for WFRBSN40188: 2026-04-01 00:00:00
+Frequency short for WFRBSN40188: Q
+Next read day for WFRBSN40188: 2026-07-01 00:00:00
+Fetching data for WFRBSN40188 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSN40188, skipping
+Max date for WFRBSB50215: 2026-04-01 00:00:00
+Frequency short for WFRBSB50215: Q
+Next read day for WFRBSB50215: 2026-07-01 00:00:00
+Fetching data for WFRBSB50215 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSB50215, skipping
+Max date for GASDESW: 2026-10-12 00:00:00
+Frequency short for GASDESW: W
+Next read day for GASDESW: 2026-10-19 00:00:00
+Fetching data for GASDESW starting from 2026-10-19 00:00:00
+No new data returned for GASDESW, skipping
+Max date for APU000072610: 2026-09-01 00:00:00
+Frequency short for APU000072610: M
+Next read day for APU000072610: 2026-10-01 00:00:00
+Fetching data for APU000072610 starting from 2026-10-01 00:00:00
+No new data returned for APU000072610, skipping
+Max date for PNRGINDEXM: 2026-07-01 00:00:00
+Frequency short for PNRGINDEXM: M
+Next read day for PNRGINDEXM: 2026-07-31 00:00:00
+Fetching data for PNRGINDEXM starting from 2026-07-31 00:00:00
+No new data to append for PNRGINDEXM, skipping
+Max date for GDPC1: 2026-04-01 00:00:00
+Frequency short for GDPC1: Q
+Next read day for GDPC1: 2026-07-01 00:00:00
+Fetching data for GDPC1 starting from 2026-07-01 00:00:00
+No new data returned for GDPC1, skipping
+Max date for PSAVERT: 2026-08-01 00:00:00
+Frequency short for PSAVERT: M
+Next read day for PSAVERT: 2026-08-31 00:00:00
+Fetching data for PSAVERT starting from 2026-08-31 00:00:00
+No new data to append for PSAVERT, skipping
+Max date for TLCOMCONS: 2026-08-01 00:00:00
+Frequency short for TLCOMCONS: M
+Next read day for TLCOMCONS: 2026-08-31 00:00:00
+Fetching data for TLCOMCONS starting from 2026-08-31 00:00:00
+No new data to append for TLCOMCONS, skipping
+Max date for TLRESCONS: 2026-08-01 00:00:00
+Frequency short for TLRESCONS: M
+Next read day for TLRESCONS: 2026-08-31 00:00:00
+Fetching data for TLRESCONS starting from 2026-08-31 00:00:00
+No new data to append for TLRESCONS, skipping
+Tue Oct 20 03:03:16 AM PDT 2026
+Starting alpaca_updater.py
+A: appended 1 rows
+AAPL: appended 1 rows
+ABBV: appended 1 rows
+ABNB: appended 1 rows
+ABT: appended 1 rows
+ACGL: appended 1 rows
+ACN: appended 1 rows
+ADBE: appended 1 rows
+ADI: appended 1 rows
+ADM: appended 1 rows
+ADP: appended 1 rows
+ADSK: appended 1 rows
+AEE: appended 1 rows
+AEP: appended 1 rows
+AES: appended 1 rows
+AFL: appended 1 rows
+AIG: appended 1 rows
+AIZ: appended 1 rows
+AJG: appended 1 rows
+AKAM: appended 1 rows
+ALB: appended 1 rows
+ALGN: appended 1 rows
+ALL: appended 1 rows
+ALLE: appended 1 rows
+AMAT: appended 1 rows
+AMCR: appended 1 rows
+AMD: appended 1 rows
+AME: appended 1 rows
+AMGN: appended 1 rows
+AMP: appended 1 rows
+AMT: appended 1 rows
+AMZN: appended 1 rows
+ANET: appended 1 rows
+AON: appended 1 rows
+AOS: appended 1 rows
+APA: appended 1 rows
+APD: appended 1 rows
+APH: appended 1 rows
+APO: appended 1 rows
+APP: appended 1 rows
+APTV: appended 1 rows
+ARE: appended 1 rows
+ARES: appended 1 rows
+ATO: appended 1 rows
+AVGO: appended 1 rows
+AVY: appended 1 rows
+AWK: appended 1 rows
+AXON: appended 1 rows
+AXP: appended 1 rows
+AZO: appended 1 rows
+BA: appended 1 rows
+BAC: appended 1 rows
+BALL: appended 1 rows
+BAX: appended 1 rows
+BBY: appended 1 rows
+BDX: appended 1 rows
+BE: appended 1 rows
+BEN: appended 1 rows
+BF.B: appended 1 rows
+BG: appended 1 rows
+BIIB: appended 1 rows
+BKNG: appended 1 rows
+BKR: appended 1 rows
+BLK: appended 1 rows
+BMY: appended 1 rows
+BNY: appended 1 rows
+BR: appended 1 rows
+BRK.B: appended 1 rows
+BRO: appended 1 rows
+BSX: appended 1 rows
+BX: appended 1 rows
+BXP: appended 1 rows
+C: appended 1 rows
+CAH: appended 1 rows
+CARR: appended 1 rows
+CASY: appended 1 rows
+CAT: appended 1 rows
+CB: appended 1 rows
+CBOE: appended 1 rows
+CBRE: appended 1 rows
+CCI: appended 1 rows
+CCL: appended 1 rows
+CDNS: appended 1 rows
+CDW: appended 1 rows
+CEG: appended 1 rows
+CELH: appended 1 rows
+CF: appended 1 rows
+CFG: appended 1 rows
+CHD: appended 1 rows
+CHRW: appended 1 rows
+CHTR: appended 1 rows
+CI: appended 1 rows
+CIEN: appended 1 rows
+CINF: appended 1 rows
+CL: appended 1 rows
+CLX: appended 1 rows
+CMCSA: appended 1 rows
+CME: appended 1 rows
+CMG: appended 1 rows
+CMI: appended 1 rows
+CMS: appended 1 rows
+CNC: appended 1 rows
+CNP: appended 1 rows
+COF: appended 1 rows
+COHR: appended 1 rows
+COIN: appended 1 rows
+COO: appended 1 rows
+COP: appended 1 rows
+COR: appended 1 rows
+COST: appended 1 rows
+CPAY: appended 1 rows
+CPRT: appended 1 rows
+CPT: appended 1 rows
+CRH: appended 1 rows
+CRL: appended 1 rows
+CRM: appended 1 rows
+CRWD: appended 1 rows
+CSCO: appended 1 rows
+CSGP: appended 1 rows
+CSX: appended 1 rows
+CTAS: appended 1 rows
+CTSH: appended 1 rows
+CVNA: appended 1 rows
+CVS: appended 1 rows
+CVX: appended 1 rows
+D: appended 1 rows
+DAL: appended 1 rows
+DASH: appended 1 rows
+DD: appended 1 rows
+DDOG: appended 1 rows
+DE: appended 1 rows
+DECK: appended 1 rows
+DELL: appended 1 rows
+DG: appended 1 rows
+DGX: appended 1 rows
+DHI: appended 1 rows
+DHR: appended 1 rows
+DIS: appended 1 rows
+DLR: appended 1 rows
+DLTR: appended 1 rows
+DOC: appended 1 rows
+DOV: appended 1 rows
+DOW: appended 1 rows
+DPZ: appended 1 rows
+DRI: appended 1 rows
+DTE: appended 1 rows
+DUK: appended 1 rows
+DVA: appended 1 rows
+DVN: appended 1 rows
+DXCM: appended 1 rows
+EBAY: appended 1 rows
+ECHO: appended 1 rows
+ECL: appended 1 rows
+ED: appended 1 rows
+EFX: appended 1 rows
+EG: appended 1 rows
+EIX: appended 1 rows
+EL: appended 1 rows
+ELV: appended 1 rows
+EME: appended 1 rows
+EMR: appended 1 rows
+EOG: appended 1 rows
+EQIX: appended 1 rows
+EQT: appended 1 rows
+ERIE: appended 1 rows
+ES: appended 1 rows
+ESS: appended 1 rows
+ETN: appended 1 rows
+ETR: appended 1 rows
+EVRG: appended 1 rows
+EW: appended 1 rows
+EXC: appended 1 rows
+EXE: appended 1 rows
+EXPD: appended 1 rows
+EXPE: appended 1 rows
+EXR: appended 1 rows
+F: appended 1 rows
+FANG: appended 1 rows
+FAST: appended 1 rows
+FCX: appended 1 rows
+FDS: appended 1 rows
+FDX: appended 1 rows
+FDXF: appended 1 rows
+FE: appended 1 rows
+FERG: appended 1 rows
+FFIV: appended 1 rows
+FICO: appended 1 rows
+FIS: appended 1 rows
+FISV: appended 1 rows
+FITB: appended 1 rows
+FIX: appended 1 rows
+FLEX: appended 1 rows
+FOX: appended 1 rows
+FOXA: appended 1 rows
+FRT: appended 1 rows
+FSLR: appended 1 rows
+FTNT: appended 1 rows
+FTV: appended 1 rows
+GD: appended 1 rows
+GDDY: appended 1 rows
+GE: appended 1 rows
+GEHC: appended 1 rows
+GEN: appended 1 rows
+GEV: appended 1 rows
+GILD: appended 1 rows
+GIS: appended 1 rows
+GL: appended 1 rows
+GLW: appended 1 rows
+GM: appended 1 rows
+GNRC: appended 1 rows
+GOOG: appended 1 rows
+GOOGL: appended 1 rows
+GPC: appended 1 rows
+GPN: appended 1 rows
+GRMN: appended 1 rows
+GS: appended 1 rows
+GWW: appended 1 rows
+HAL: appended 1 rows
+HAS: appended 1 rows
+HBAN: appended 1 rows
+HCA: appended 1 rows
+HD: appended 1 rows
+HIG: appended 1 rows
+HII: appended 1 rows
+HLT: appended 1 rows
+HON: appended 1 rows
+HONA: appended 1 rows
+HOOD: appended 1 rows
+HPE: appended 1 rows
+HPQ: appended 1 rows
+HRL: appended 1 rows
+HSIC: appended 1 rows
+HST: appended 1 rows
+HSY: appended 1 rows
+HUBB: appended 1 rows
+HUM: appended 1 rows
+HWM: appended 1 rows
+IBKR: appended 1 rows
+IBM: appended 1 rows
+ICE: appended 1 rows
+IDXX: appended 1 rows
+IEX: appended 1 rows
+IFF: appended 1 rows
+ILMN: appended 1 rows
+INCY: appended 1 rows
+INTC: appended 1 rows
+INTU: appended 1 rows
+INVH: appended 1 rows
+IP: appended 1 rows
+IQV: appended 1 rows
+IR: appended 1 rows
+IRM: appended 1 rows
+ISRG: appended 1 rows
+IT: appended 1 rows
+ITW: appended 1 rows
+IVZ: appended 1 rows
+J: appended 1 rows
+JBHT: appended 1 rows
+JBL: appended 1 rows
+JCI: appended 1 rows
+JKHY: appended 1 rows
+JNJ: appended 1 rows
+JPM: appended 1 rows
+KDP: appended 1 rows
+KEY: appended 1 rows
+KEYS: appended 1 rows
+KHC: appended 1 rows
+KIM: appended 1 rows
+KKR: appended 1 rows
+KLAC: appended 1 rows
+KMB: appended 1 rows
+KMI: appended 1 rows
+KO: appended 1 rows
+KR: appended 1 rows
+KVUE: appended 1 rows
+L: appended 1 rows
+LDOS: appended 1 rows
+LEN: appended 1 rows
+LH: appended 1 rows
+LHX: appended 1 rows
+LII: appended 1 rows
+LIN: appended 1 rows
+LITE: appended 1 rows
+LLY: appended 1 rows
+LMT: appended 1 rows
+LNT: appended 1 rows
+LOW: appended 1 rows
+LRCX: appended 1 rows
+LULU: appended 1 rows
+LUV: appended 1 rows
+LVS: appended 1 rows
+LYB: appended 1 rows
+LYV: appended 1 rows
+MA: appended 1 rows
+MAA: appended 1 rows
+MAR: appended 1 rows
+MAS: appended 1 rows
+MCD: appended 1 rows
+MCHP: appended 1 rows
+MCK: appended 1 rows
+MCO: appended 1 rows
+MDLZ: appended 1 rows
+MDT: appended 1 rows
+MET: appended 1 rows
+META: appended 1 rows
+MGM: appended 1 rows
+MKC: appended 1 rows
+MLM: appended 1 rows
+MMM: appended 1 rows
+MNST: appended 1 rows
+MO: appended 1 rows
+MOS: appended 1 rows
+MPC: appended 1 rows
+MPWR: appended 1 rows
+MRK: appended 1 rows
+MRNA: appended 1 rows
+MRSH: appended 1 rows
+MRVL: appended 1 rows
+MS: appended 1 rows
+MSCI: appended 1 rows
+MSFT: appended 1 rows
+MSI: appended 1 rows
+MTB: appended 1 rows
+MTD: appended 1 rows
+MU: appended 1 rows
+NCLH: appended 1 rows
+NDAQ: appended 1 rows
+NDSN: appended 1 rows
+NEE: appended 1 rows
+NEM: appended 1 rows
+NFLX: appended 1 rows
+NI: appended 1 rows
+NKE: appended 1 rows
+NOC: appended 1 rows
+NOW: appended 1 rows
+NRG: appended 1 rows
+NSC: appended 1 rows
+NTAP: appended 1 rows
+NTRS: appended 1 rows
+NUE: appended 1 rows
+NVDA: appended 1 rows
+NVR: appended 1 rows
+NWS: appended 1 rows
+NWSA: appended 1 rows
+NXPI: appended 1 rows
+O: appended 1 rows
+ODFL: appended 1 rows
+OKE: appended 1 rows
+OMC: appended 1 rows
+ON: appended 1 rows
+ORCL: appended 1 rows
+ORLY: appended 1 rows
+OTIS: appended 1 rows
+OXY: appended 1 rows
+P: appended 1 rows
+PANW: appended 1 rows
+PAYX: appended 1 rows
+PCAR: appended 1 rows
+PCG: appended 1 rows
+PEG: appended 1 rows
+PEP: appended 1 rows
+PFE: appended 1 rows
+PFG: appended 1 rows
+PG: appended 1 rows
+PGR: appended 1 rows
+PH: appended 1 rows
+PHM: appended 1 rows
+PKG: appended 1 rows
+PLD: appended 1 rows
+PLTR: appended 1 rows
+PM: appended 1 rows
+PNC: appended 1 rows
+PNR: appended 1 rows
+PNW: appended 1 rows
+PODD: appended 1 rows
+PPG: appended 1 rows
+PPL: appended 1 rows
+PRU: appended 1 rows
+PSA: appended 1 rows
+PSX: appended 1 rows
+PTC: appended 1 rows
+PWR: appended 1 rows
+PYPL: appended 1 rows
+Q: appended 1 rows
+QCOM: appended 1 rows
+RCL: appended 1 rows
+RDDT: appended 1 rows
+REG: appended 1 rows
+REGN: appended 1 rows
+RF: appended 1 rows
+RJF: appended 1 rows
+RL: appended 1 rows
+RMD: appended 1 rows
+ROK: appended 1 rows
+ROL: appended 1 rows
+ROP: appended 1 rows
+ROST: appended 1 rows
+RSG: appended 1 rows
+RTX: appended 1 rows
+RVTY: appended 1 rows
+SBAC: appended 1 rows
+SBUX: appended 1 rows
+SCHW: appended 1 rows
+SHW: appended 1 rows
+SJM: appended 1 rows
+SKYD: appended 1 rows
+SLB: appended 1 rows
+SMCI: appended 1 rows
+SNA: appended 1 rows
+SNDK: appended 1 rows
+SNPS: appended 1 rows
+SO: appended 1 rows
+SOLV: appended 1 rows
+SPG: appended 1 rows
+SPGI: appended 1 rows
+SRE: appended 1 rows
+STE: appended 1 rows
+STLD: appended 1 rows
+STT: appended 1 rows
+STX: appended 1 rows
+STZ: appended 1 rows
+SW: appended 1 rows
+SWK: appended 1 rows
+SWKS: appended 1 rows
+SYF: appended 1 rows
+SYK: appended 1 rows
+SYY: appended 1 rows
+T: appended 1 rows
+TDG: appended 1 rows
+TDY: appended 1 rows
+TECH: appended 1 rows
+TEL: appended 1 rows
+TER: appended 1 rows
+TFC: appended 1 rows
+TGT: appended 1 rows
+TJX: appended 1 rows
+TKO: appended 1 rows
+TMO: appended 1 rows
+TMUS: appended 1 rows
+TPL: appended 1 rows
+TPR: appended 1 rows
+TRGP: appended 1 rows
+TRMB: appended 1 rows
+TROW: appended 1 rows
+TRV: appended 1 rows
+TSCO: appended 1 rows
+TSLA: appended 1 rows
+TSN: appended 1 rows
+TT: appended 1 rows
+TTWO: appended 1 rows
+TWLO: appended 1 rows
+TXN: appended 1 rows
+TXT: appended 1 rows
+TYL: appended 1 rows
+UAL: appended 1 rows
+UBER: appended 1 rows
+UDR: appended 1 rows
+UHS: appended 1 rows
+ULTA: appended 1 rows
+UNH: appended 1 rows
+UNP: appended 1 rows
+UPS: appended 1 rows
+URI: appended 1 rows
+USB: appended 1 rows
+V: appended 1 rows
+VCLT: appended 1 rows
+VEEV: appended 1 rows
+VEU: appended 1 rows
+VGSH: appended 1 rows
+VGT: appended 1 rows
+VICI: appended 1 rows
+VIG: appended 1 rows
+VLO: appended 1 rows
+VLTO: appended 1 rows
+VMC: appended 1 rows
+VMRK: appended 1 rows
+VNQ: appended 1 rows
+VONG: appended 1 rows
+VOO: appended 1 rows
+VRSK: appended 1 rows
+VRSN: appended 1 rows
+VRT: appended 1 rows
+VRTX: appended 1 rows
+VST: appended 1 rows
+VT: appended 1 rows
+VTI: appended 1 rows
+VTR: appended 1 rows
+VTRS: appended 1 rows
+VXUS: appended 1 rows
+VYLR: appended 1 rows
+VZ: appended 1 rows
+WAB: appended 1 rows
+WAT: appended 1 rows
+WDAY: appended 1 rows
+WDC: appended 1 rows
+WEC: appended 1 rows
+WELL: appended 1 rows
+WFC: appended 1 rows
+WM: appended 1 rows
+WMB: appended 1 rows
+WMT: appended 1 rows
+WRB: appended 1 rows
+WSM: appended 1 rows
+WST: appended 1 rows
+WTW: appended 1 rows
+WY: appended 1 rows
+WYNN: appended 1 rows
+XEL: appended 1 rows
+XOM: appended 1 rows
+XYL: appended 1 rows
+XYZ: appended 1 rows
+YUM: appended 1 rows
+ZBH: appended 1 rows
+ZBRA: appended 1 rows
+ZTS: appended 1 rows
+Tue Oct 20 03:13:13 AM PDT 2026
+Financial repo daily cron job end.
+Financial repo daily cron job start.
+Wed Oct 21 03:00:01 AM PDT 2026
+Starting fred_updater.py
+Max date for DEXUSEU: 2026-10-16 00:00:00
+Frequency short for DEXUSEU: D
+Next read day for DEXUSEU: 2026-10-17 00:00:00
+Fetching data for DEXUSEU starting from 2026-10-17 00:00:00
+No new data returned for DEXUSEU, skipping
+Max date for DEXJPUS: 2026-10-16 00:00:00
+Frequency short for DEXJPUS: D
+Next read day for DEXJPUS: 2026-10-17 00:00:00
+Fetching data for DEXJPUS starting from 2026-10-17 00:00:00
+No new data returned for DEXJPUS, skipping
+Max date for DEXUSUK: 2026-10-16 00:00:00
+Frequency short for DEXUSUK: D
+Next read day for DEXUSUK: 2026-10-17 00:00:00
+Fetching data for DEXUSUK starting from 2026-10-17 00:00:00
+No new data returned for DEXUSUK, skipping
+Max date for DEXUSAL: 2026-10-16 00:00:00
+Frequency short for DEXUSAL: D
+Next read day for DEXUSAL: 2026-10-17 00:00:00
+Fetching data for DEXUSAL starting from 2026-10-17 00:00:00
+No new data returned for DEXUSAL, skipping
+Max date for DEXCHUS: 2026-10-16 00:00:00
+Frequency short for DEXCHUS: D
+Next read day for DEXCHUS: 2026-10-17 00:00:00
+Fetching data for DEXCHUS starting from 2026-10-17 00:00:00
+No new data returned for DEXCHUS, skipping
+Max date for DEXINUS: 2026-10-16 00:00:00
+Frequency short for DEXINUS: D
+Next read day for DEXINUS: 2026-10-17 00:00:00
+Fetching data for DEXINUS starting from 2026-10-17 00:00:00
+No new data returned for DEXINUS, skipping
+Max date for DEXBZUS: 2026-10-16 00:00:00
+Frequency short for DEXBZUS: D
+Next read day for DEXBZUS: 2026-10-17 00:00:00
+Fetching data for DEXBZUS starting from 2026-10-17 00:00:00
+No new data returned for DEXBZUS, skipping
+Max date for DEXCAUS: 2026-10-16 00:00:00
+Frequency short for DEXCAUS: D
+Next read day for DEXCAUS: 2026-10-17 00:00:00
+Fetching data for DEXCAUS starting from 2026-10-17 00:00:00
+No new data returned for DEXCAUS, skipping
+Max date for DEXSZUS: 2026-10-16 00:00:00
+Frequency short for DEXSZUS: D
+Next read day for DEXSZUS: 2026-10-17 00:00:00
+Fetching data for DEXSZUS starting from 2026-10-17 00:00:00
+No new data returned for DEXSZUS, skipping
+Max date for DEXHKUS: 2026-10-16 00:00:00
+Frequency short for DEXHKUS: D
+Next read day for DEXHKUS: 2026-10-17 00:00:00
+Fetching data for DEXHKUS starting from 2026-10-17 00:00:00
+No new data returned for DEXHKUS, skipping
+Max date for DEXMXUS: 2026-10-16 00:00:00
+Frequency short for DEXMXUS: D
+Next read day for DEXMXUS: 2026-10-17 00:00:00
+Fetching data for DEXMXUS starting from 2026-10-17 00:00:00
+No new data returned for DEXMXUS, skipping
+Max date for DEXUSNZ: 2026-10-16 00:00:00
+Frequency short for DEXUSNZ: D
+Next read day for DEXUSNZ: 2026-10-17 00:00:00
+Fetching data for DEXUSNZ starting from 2026-10-17 00:00:00
+No new data returned for DEXUSNZ, skipping
+Max date for T10Y2Y: 2026-10-19 00:00:00
+Frequency short for T10Y2Y: D
+Next read day for T10Y2Y: 2026-10-20 00:00:00
+Fetching data for T10Y2Y starting from 2026-10-20 00:00:00
+Max date for T10Y3M: 2026-10-19 00:00:00
+Frequency short for T10Y3M: D
+Next read day for T10Y3M: 2026-10-20 00:00:00
+Fetching data for T10Y3M starting from 2026-10-20 00:00:00
+Max date for T10YIE: 2026-10-19 00:00:00
+Frequency short for T10YIE: D
+Next read day for T10YIE: 2026-10-20 00:00:00
+Fetching data for T10YIE starting from 2026-10-20 00:00:00
+Max date for TERMCBCCALLNS: 2026-08-01 00:00:00
+Frequency short for TERMCBCCALLNS: M
+Next read day for TERMCBCCALLNS: 2026-08-31 00:00:00
+Fetching data for TERMCBCCALLNS starting from 2026-08-31 00:00:00
+No new data to append for TERMCBCCALLNS, skipping
+Max date for TOTALSL: 2026-08-01 00:00:00
+Frequency short for TOTALSL: M
+Next read day for TOTALSL: 2026-08-31 00:00:00
+Fetching data for TOTALSL starting from 2026-08-31 00:00:00
+No new data to append for TOTALSL, skipping
+Max date for CPIAUCSL: 2026-09-01 00:00:00
+Frequency short for CPIAUCSL: M
+Next read day for CPIAUCSL: 2026-10-01 00:00:00
+Fetching data for CPIAUCSL starting from 2026-10-01 00:00:00
+No new data returned for CPIAUCSL, skipping
+Max date for PCEPI: 2026-08-01 00:00:00
+Frequency short for PCEPI: M
+Next read day for PCEPI: 2026-08-31 00:00:00
+Fetching data for PCEPI starting from 2026-08-31 00:00:00
+No new data to append for PCEPI, skipping
+Max date for CORESTICKM159SFRBATL: 2026-09-01 00:00:00
+Frequency short for CORESTICKM159SFRBATL: M
+Next read day for CORESTICKM159SFRBATL: 2026-10-01 00:00:00
+Fetching data for CORESTICKM159SFRBATL starting from 2026-10-01 00:00:00
+No new data returned for CORESTICKM159SFRBATL, skipping
+Max date for DRCCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCCLACBS: Q
+Next read day for DRCCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCCLACBS, skipping
+Max date for DRSFRMACBS: 2026-04-01 00:00:00
+Frequency short for DRSFRMACBS: Q
+Next read day for DRSFRMACBS: 2026-07-01 00:00:00
+Fetching data for DRSFRMACBS starting from 2026-07-01 00:00:00
+No new data returned for DRSFRMACBS, skipping
+Max date for DRCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCLACBS: Q
+Next read day for DRCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCLACBS, skipping
+Max date for DRBLACBS: 2026-04-01 00:00:00
+Frequency short for DRBLACBS: Q
+Next read day for DRBLACBS: 2026-07-01 00:00:00
+Fetching data for DRBLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRBLACBS, skipping
+Max date for DRFLACBS: 2026-04-01 00:00:00
+Frequency short for DRFLACBS: Q
+Next read day for DRFLACBS: 2026-07-01 00:00:00
+Fetching data for DRFLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRFLACBS, skipping
+Max date for DALLCCACBEP: 2026-04-01 00:00:00
+Frequency short for DALLCCACBEP: Q
+Next read day for DALLCCACBEP: 2026-07-01 00:00:00
+Fetching data for DALLCCACBEP starting from 2026-07-01 00:00:00
+No new data returned for DALLCCACBEP, skipping
+Max date for USPBS: 2026-09-01 00:00:00
+Frequency short for USPBS: M
+Next read day for USPBS: 2026-10-01 00:00:00
+Fetching data for USPBS starting from 2026-10-01 00:00:00
+No new data returned for USPBS, skipping
+Max date for CES6054120001: 2026-09-01 00:00:00
+Frequency short for CES6054120001: M
+Next read day for CES6054120001: 2026-10-01 00:00:00
+Fetching data for CES6054120001 starting from 2026-10-01 00:00:00
+No new data returned for CES6054120001, skipping
+Max date for USCONS: 2026-09-01 00:00:00
+Frequency short for USCONS: M
+Next read day for USCONS: 2026-10-01 00:00:00
+Fetching data for USCONS starting from 2026-10-01 00:00:00
+No new data returned for USCONS, skipping
+Max date for UNRATE: 2026-09-01 00:00:00
+Frequency short for UNRATE: M
+Next read day for UNRATE: 2026-10-01 00:00:00
+Fetching data for UNRATE starting from 2026-10-01 00:00:00
+No new data returned for UNRATE, skipping
+Max date for JTSJOR: 2026-08-01 00:00:00
+Frequency short for JTSJOR: M
+Next read day for JTSJOR: 2026-08-31 00:00:00
+Fetching data for JTSJOR starting from 2026-08-31 00:00:00
+No new data to append for JTSJOR, skipping
+Max date for UNEMPLOY: 2026-09-01 00:00:00
+Frequency short for UNEMPLOY: M
+Next read day for UNEMPLOY: 2026-10-01 00:00:00
+Fetching data for UNEMPLOY starting from 2026-10-01 00:00:00
+No new data returned for UNEMPLOY, skipping
+Max date for PAYEMS: 2026-09-01 00:00:00
+Frequency short for PAYEMS: M
+Next read day for PAYEMS: 2026-10-01 00:00:00
+Fetching data for PAYEMS starting from 2026-10-01 00:00:00
+No new data returned for PAYEMS, skipping
+Max date for CEU4348400001: 2026-09-01 00:00:00
+Frequency short for CEU4348400001: M
+Next read day for CEU4348400001: 2026-10-01 00:00:00
+Fetching data for CEU4348400001 starting from 2026-10-01 00:00:00
+No new data returned for CEU4348400001, skipping
+Max date for LNS11300001: 2026-09-01 00:00:00
+Frequency short for LNS11300001: M
+Next read day for LNS11300001: 2026-10-01 00:00:00
+Fetching data for LNS11300001 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300001, skipping
+Max date for LNS11300002: 2026-09-01 00:00:00
+Frequency short for LNS11300002: M
+Next read day for LNS11300002: 2026-10-01 00:00:00
+Fetching data for LNS11300002 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300002, skipping
+Max date for LNS11300032: 2026-09-01 00:00:00
+Frequency short for LNS11300032: M
+Next read day for LNS11300032: 2026-10-01 00:00:00
+Fetching data for LNS11300032 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300032, skipping
+Max date for LNS11300012: 2026-09-01 00:00:00
+Frequency short for LNS11300012: M
+Next read day for LNS11300012: 2026-10-01 00:00:00
+Fetching data for LNS11300012 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300012, skipping
+Max date for ICSA: 2026-10-10 00:00:00
+Frequency short for ICSA: W
+Next read day for ICSA: 2026-10-17 00:00:00
+Fetching data for ICSA starting from 2026-10-17 00:00:00
+No new data returned for ICSA, skipping
+Max date for M1V: 2026-04-01 00:00:00
+Frequency short for M1V: Q
+Next read day for M1V: 2026-07-01 00:00:00
+Fetching data for M1V starting from 2026-07-01 00:00:00
+No new data returned for M1V, skipping
+Max date for M2V: 2026-04-01 00:00:00
+Frequency short for M2V: Q
+Next read day for M2V: 2026-07-01 00:00:00
+Fetching data for M2V starting from 2026-07-01 00:00:00
+No new data returned for M2V, skipping
+Max date for BOGMBASE: 2026-08-01 00:00:00
+Frequency short for BOGMBASE: M
+Next read day for BOGMBASE: 2026-08-31 00:00:00
+Fetching data for BOGMBASE starting from 2026-08-31 00:00:00
+No new data to append for BOGMBASE, skipping
+Max date for BOGMBBM: 2026-08-01 00:00:00
+Frequency short for BOGMBBM: M
+Next read day for BOGMBBM: 2026-08-31 00:00:00
+Fetching data for BOGMBBM starting from 2026-08-31 00:00:00
+No new data to append for BOGMBBM, skipping
+Max date for MBCURRCIR: 2026-08-01 00:00:00
+Frequency short for MBCURRCIR: M
+Next read day for MBCURRCIR: 2026-08-31 00:00:00
+Fetching data for MBCURRCIR starting from 2026-08-31 00:00:00
+No new data to append for MBCURRCIR, skipping
+Max date for PPIACO: 2026-09-01 00:00:00
+Frequency short for PPIACO: M
+Next read day for PPIACO: 2026-10-01 00:00:00
+Fetching data for PPIACO starting from 2026-10-01 00:00:00
+No new data returned for PPIACO, skipping
+Max date for PCUOMFGOMFG: 2026-09-01 00:00:00
+Frequency short for PCUOMFGOMFG: M
+Next read day for PCUOMFGOMFG: 2026-10-01 00:00:00
+Fetching data for PCUOMFGOMFG starting from 2026-10-01 00:00:00
+No new data returned for PCUOMFGOMFG, skipping
+Max date for PCUAINFOAINFO: 2026-09-01 00:00:00
+Frequency short for PCUAINFOAINFO: M
+Next read day for PCUAINFOAINFO: 2026-10-01 00:00:00
+Fetching data for PCUAINFOAINFO starting from 2026-10-01 00:00:00
+No new data returned for PCUAINFOAINFO, skipping
+Max date for PCUATRNWRATRNWR: 2026-09-01 00:00:00
+Frequency short for PCUATRNWRATRNWR: M
+Next read day for PCUATRNWRATRNWR: 2026-10-01 00:00:00
+Fetching data for PCUATRNWRATRNWR starting from 2026-10-01 00:00:00
+No new data returned for PCUATRNWRATRNWR, skipping
+Max date for WFRBST01134: 2026-04-01 00:00:00
+Frequency short for WFRBST01134: Q
+Next read day for WFRBST01134: 2026-07-01 00:00:00
+Fetching data for WFRBST01134 starting from 2026-07-01 00:00:00
+No new data returned for WFRBST01134, skipping
+Max date for WFRBLT01026: 2026-04-01 00:00:00
+Frequency short for WFRBLT01026: Q
+Next read day for WFRBLT01026: 2026-07-01 00:00:00
+Fetching data for WFRBLT01026 starting from 2026-07-01 00:00:00
+No new data returned for WFRBLT01026, skipping
+Max date for WFRBSN40188: 2026-04-01 00:00:00
+Frequency short for WFRBSN40188: Q
+Next read day for WFRBSN40188: 2026-07-01 00:00:00
+Fetching data for WFRBSN40188 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSN40188, skipping
+Max date for WFRBSB50215: 2026-04-01 00:00:00
+Frequency short for WFRBSB50215: Q
+Next read day for WFRBSB50215: 2026-07-01 00:00:00
+Fetching data for WFRBSB50215 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSB50215, skipping
+Max date for GASDESW: 2026-10-12 00:00:00
+Frequency short for GASDESW: W
+Next read day for GASDESW: 2026-10-19 00:00:00
+Fetching data for GASDESW starting from 2026-10-19 00:00:00
+Max date for APU000072610: 2026-09-01 00:00:00
+Frequency short for APU000072610: M
+Next read day for APU000072610: 2026-10-01 00:00:00
+Fetching data for APU000072610 starting from 2026-10-01 00:00:00
+No new data returned for APU000072610, skipping
+Max date for PNRGINDEXM: 2026-07-01 00:00:00
+Frequency short for PNRGINDEXM: M
+Next read day for PNRGINDEXM: 2026-07-31 00:00:00
+Fetching data for PNRGINDEXM starting from 2026-07-31 00:00:00
+No new data to append for PNRGINDEXM, skipping
+Max date for GDPC1: 2026-04-01 00:00:00
+Frequency short for GDPC1: Q
+Next read day for GDPC1: 2026-07-01 00:00:00
+Fetching data for GDPC1 starting from 2026-07-01 00:00:00
+No new data returned for GDPC1, skipping
+Max date for PSAVERT: 2026-08-01 00:00:00
+Frequency short for PSAVERT: M
+Next read day for PSAVERT: 2026-08-31 00:00:00
+Fetching data for PSAVERT starting from 2026-08-31 00:00:00
+No new data to append for PSAVERT, skipping
+Max date for TLCOMCONS: 2026-08-01 00:00:00
+Frequency short for TLCOMCONS: M
+Next read day for TLCOMCONS: 2026-08-31 00:00:00
+Fetching data for TLCOMCONS starting from 2026-08-31 00:00:00
+No new data to append for TLCOMCONS, skipping
+Max date for TLRESCONS: 2026-08-01 00:00:00
+Frequency short for TLRESCONS: M
+Next read day for TLRESCONS: 2026-08-31 00:00:00
+Fetching data for TLRESCONS starting from 2026-08-31 00:00:00
+No new data to append for TLRESCONS, skipping
+Wed Oct 21 03:03:12 AM PDT 2026
+Starting alpaca_updater.py
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 198, in _one_request
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://data.alpaca.markets/v2/stocks/bars?start=2026-10-20T04%3A00%3A00%2B00%3A00&end=2026-10-21T10%3A03%3A14.036680%2B00%3A00&timeframe=1Day&feed=iex&symbols=A&limit=10000
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 111, in fetch_bars
+    return bars_to_dataframe(client.get_stock_bars(request), ticker)
+                             ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/data/historical/stock.py", line 87, in get_stock_bars
+    raw_bars = self._get_marketdata(
+        path="/stocks/bars",
+        params=request_params.to_request_fields(),
+        page_size=10_000,
+    )
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 393, in _get_marketdata
+    response = self.get(path=path, data=params)
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 225, in get
+    return self._request("GET", path, data, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 131, in _request
+    return self._one_request(method, url, opts, retry)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 207, in _one_request
+    raise APIError(error, http_error)
+alpaca.common.exceptions.APIError: <html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 195, in update_sp500_tables
+    update_ticker(client, db, connection, ticker, today)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 153, in update_ticker
+    dataframe = fetch_bars(client, ticker, start, today)
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 113, in fetch_bars
+    raise RuntimeError(f"Failed to fetch bars for {ticker}: {error}") from error
+RuntimeError: Failed to fetch bars for A: <html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 204, in <module>
+    update_sp500_tables()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 198, in update_sp500_tables
+    raise RuntimeError(f"Failed while updating {ticker}") from error
+RuntimeError: Failed while updating A
+Wed Oct 21 03:03:14 AM PDT 2026
+Financial repo daily cron job end.
+Financial repo daily cron job start.
+Thu Oct 22 03:00:01 AM PDT 2026
+Starting fred_updater.py
+Max date for DEXUSEU: 2026-10-16 00:00:00
+Frequency short for DEXUSEU: D
+Next read day for DEXUSEU: 2026-10-17 00:00:00
+Fetching data for DEXUSEU starting from 2026-10-17 00:00:00
+No new data returned for DEXUSEU, skipping
+Max date for DEXJPUS: 2026-10-16 00:00:00
+Frequency short for DEXJPUS: D
+Next read day for DEXJPUS: 2026-10-17 00:00:00
+Fetching data for DEXJPUS starting from 2026-10-17 00:00:00
+No new data returned for DEXJPUS, skipping
+Max date for DEXUSUK: 2026-10-16 00:00:00
+Frequency short for DEXUSUK: D
+Next read day for DEXUSUK: 2026-10-17 00:00:00
+Fetching data for DEXUSUK starting from 2026-10-17 00:00:00
+No new data returned for DEXUSUK, skipping
+Max date for DEXUSAL: 2026-10-16 00:00:00
+Frequency short for DEXUSAL: D
+Next read day for DEXUSAL: 2026-10-17 00:00:00
+Fetching data for DEXUSAL starting from 2026-10-17 00:00:00
+No new data returned for DEXUSAL, skipping
+Max date for DEXCHUS: 2026-10-16 00:00:00
+Frequency short for DEXCHUS: D
+Next read day for DEXCHUS: 2026-10-17 00:00:00
+Fetching data for DEXCHUS starting from 2026-10-17 00:00:00
+No new data returned for DEXCHUS, skipping
+Max date for DEXINUS: 2026-10-16 00:00:00
+Frequency short for DEXINUS: D
+Next read day for DEXINUS: 2026-10-17 00:00:00
+Fetching data for DEXINUS starting from 2026-10-17 00:00:00
+No new data returned for DEXINUS, skipping
+Max date for DEXBZUS: 2026-10-16 00:00:00
+Frequency short for DEXBZUS: D
+Next read day for DEXBZUS: 2026-10-17 00:00:00
+Fetching data for DEXBZUS starting from 2026-10-17 00:00:00
+No new data returned for DEXBZUS, skipping
+Max date for DEXCAUS: 2026-10-16 00:00:00
+Frequency short for DEXCAUS: D
+Next read day for DEXCAUS: 2026-10-17 00:00:00
+Fetching data for DEXCAUS starting from 2026-10-17 00:00:00
+No new data returned for DEXCAUS, skipping
+Max date for DEXSZUS: 2026-10-16 00:00:00
+Frequency short for DEXSZUS: D
+Next read day for DEXSZUS: 2026-10-17 00:00:00
+Fetching data for DEXSZUS starting from 2026-10-17 00:00:00
+No new data returned for DEXSZUS, skipping
+Max date for DEXHKUS: 2026-10-16 00:00:00
+Frequency short for DEXHKUS: D
+Next read day for DEXHKUS: 2026-10-17 00:00:00
+Fetching data for DEXHKUS starting from 2026-10-17 00:00:00
+No new data returned for DEXHKUS, skipping
+Max date for DEXMXUS: 2026-10-16 00:00:00
+Frequency short for DEXMXUS: D
+Next read day for DEXMXUS: 2026-10-17 00:00:00
+Fetching data for DEXMXUS starting from 2026-10-17 00:00:00
+No new data returned for DEXMXUS, skipping
+Max date for DEXUSNZ: 2026-10-16 00:00:00
+Frequency short for DEXUSNZ: D
+Next read day for DEXUSNZ: 2026-10-17 00:00:00
+Fetching data for DEXUSNZ starting from 2026-10-17 00:00:00
+No new data returned for DEXUSNZ, skipping
+Max date for T10Y2Y: 2026-10-20 00:00:00
+Frequency short for T10Y2Y: D
+Next read day for T10Y2Y: 2026-10-21 00:00:00
+Fetching data for T10Y2Y starting from 2026-10-21 00:00:00
+Max date for T10Y3M: 2026-10-20 00:00:00
+Frequency short for T10Y3M: D
+Next read day for T10Y3M: 2026-10-21 00:00:00
+Fetching data for T10Y3M starting from 2026-10-21 00:00:00
+Max date for T10YIE: 2026-10-20 00:00:00
+Frequency short for T10YIE: D
+Next read day for T10YIE: 2026-10-21 00:00:00
+Fetching data for T10YIE starting from 2026-10-21 00:00:00
+Max date for TERMCBCCALLNS: 2026-08-01 00:00:00
+Frequency short for TERMCBCCALLNS: M
+Next read day for TERMCBCCALLNS: 2026-08-31 00:00:00
+Fetching data for TERMCBCCALLNS starting from 2026-08-31 00:00:00
+No new data to append for TERMCBCCALLNS, skipping
+Max date for TOTALSL: 2026-08-01 00:00:00
+Frequency short for TOTALSL: M
+Next read day for TOTALSL: 2026-08-31 00:00:00
+Fetching data for TOTALSL starting from 2026-08-31 00:00:00
+No new data to append for TOTALSL, skipping
+Max date for CPIAUCSL: 2026-09-01 00:00:00
+Frequency short for CPIAUCSL: M
+Next read day for CPIAUCSL: 2026-10-01 00:00:00
+Fetching data for CPIAUCSL starting from 2026-10-01 00:00:00
+No new data returned for CPIAUCSL, skipping
+Max date for PCEPI: 2026-08-01 00:00:00
+Frequency short for PCEPI: M
+Next read day for PCEPI: 2026-08-31 00:00:00
+Fetching data for PCEPI starting from 2026-08-31 00:00:00
+No new data to append for PCEPI, skipping
+Max date for CORESTICKM159SFRBATL: 2026-09-01 00:00:00
+Frequency short for CORESTICKM159SFRBATL: M
+Next read day for CORESTICKM159SFRBATL: 2026-10-01 00:00:00
+Fetching data for CORESTICKM159SFRBATL starting from 2026-10-01 00:00:00
+No new data returned for CORESTICKM159SFRBATL, skipping
+Max date for DRCCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCCLACBS: Q
+Next read day for DRCCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCCLACBS, skipping
+Max date for DRSFRMACBS: 2026-04-01 00:00:00
+Frequency short for DRSFRMACBS: Q
+Next read day for DRSFRMACBS: 2026-07-01 00:00:00
+Fetching data for DRSFRMACBS starting from 2026-07-01 00:00:00
+No new data returned for DRSFRMACBS, skipping
+Max date for DRCLACBS: 2026-04-01 00:00:00
+Frequency short for DRCLACBS: Q
+Next read day for DRCLACBS: 2026-07-01 00:00:00
+Fetching data for DRCLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRCLACBS, skipping
+Max date for DRBLACBS: 2026-04-01 00:00:00
+Frequency short for DRBLACBS: Q
+Next read day for DRBLACBS: 2026-07-01 00:00:00
+Fetching data for DRBLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRBLACBS, skipping
+Max date for DRFLACBS: 2026-04-01 00:00:00
+Frequency short for DRFLACBS: Q
+Next read day for DRFLACBS: 2026-07-01 00:00:00
+Fetching data for DRFLACBS starting from 2026-07-01 00:00:00
+No new data returned for DRFLACBS, skipping
+Max date for DALLCCACBEP: 2026-04-01 00:00:00
+Frequency short for DALLCCACBEP: Q
+Next read day for DALLCCACBEP: 2026-07-01 00:00:00
+Fetching data for DALLCCACBEP starting from 2026-07-01 00:00:00
+No new data returned for DALLCCACBEP, skipping
+Max date for USPBS: 2026-09-01 00:00:00
+Frequency short for USPBS: M
+Next read day for USPBS: 2026-10-01 00:00:00
+Fetching data for USPBS starting from 2026-10-01 00:00:00
+No new data returned for USPBS, skipping
+Max date for CES6054120001: 2026-09-01 00:00:00
+Frequency short for CES6054120001: M
+Next read day for CES6054120001: 2026-10-01 00:00:00
+Fetching data for CES6054120001 starting from 2026-10-01 00:00:00
+No new data returned for CES6054120001, skipping
+Max date for USCONS: 2026-09-01 00:00:00
+Frequency short for USCONS: M
+Next read day for USCONS: 2026-10-01 00:00:00
+Fetching data for USCONS starting from 2026-10-01 00:00:00
+No new data returned for USCONS, skipping
+Max date for UNRATE: 2026-09-01 00:00:00
+Frequency short for UNRATE: M
+Next read day for UNRATE: 2026-10-01 00:00:00
+Fetching data for UNRATE starting from 2026-10-01 00:00:00
+No new data returned for UNRATE, skipping
+Max date for JTSJOR: 2026-08-01 00:00:00
+Frequency short for JTSJOR: M
+Next read day for JTSJOR: 2026-08-31 00:00:00
+Fetching data for JTSJOR starting from 2026-08-31 00:00:00
+No new data to append for JTSJOR, skipping
+Max date for UNEMPLOY: 2026-09-01 00:00:00
+Frequency short for UNEMPLOY: M
+Next read day for UNEMPLOY: 2026-10-01 00:00:00
+Fetching data for UNEMPLOY starting from 2026-10-01 00:00:00
+No new data returned for UNEMPLOY, skipping
+Max date for PAYEMS: 2026-09-01 00:00:00
+Frequency short for PAYEMS: M
+Next read day for PAYEMS: 2026-10-01 00:00:00
+Fetching data for PAYEMS starting from 2026-10-01 00:00:00
+No new data returned for PAYEMS, skipping
+Max date for CEU4348400001: 2026-09-01 00:00:00
+Frequency short for CEU4348400001: M
+Next read day for CEU4348400001: 2026-10-01 00:00:00
+Fetching data for CEU4348400001 starting from 2026-10-01 00:00:00
+No new data returned for CEU4348400001, skipping
+Max date for LNS11300001: 2026-09-01 00:00:00
+Frequency short for LNS11300001: M
+Next read day for LNS11300001: 2026-10-01 00:00:00
+Fetching data for LNS11300001 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300001, skipping
+Max date for LNS11300002: 2026-09-01 00:00:00
+Frequency short for LNS11300002: M
+Next read day for LNS11300002: 2026-10-01 00:00:00
+Fetching data for LNS11300002 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300002, skipping
+Max date for LNS11300032: 2026-09-01 00:00:00
+Frequency short for LNS11300032: M
+Next read day for LNS11300032: 2026-10-01 00:00:00
+Fetching data for LNS11300032 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300032, skipping
+Max date for LNS11300012: 2026-09-01 00:00:00
+Frequency short for LNS11300012: M
+Next read day for LNS11300012: 2026-10-01 00:00:00
+Fetching data for LNS11300012 starting from 2026-10-01 00:00:00
+No new data returned for LNS11300012, skipping
+Max date for ICSA: 2026-10-10 00:00:00
+Frequency short for ICSA: W
+Next read day for ICSA: 2026-10-17 00:00:00
+Fetching data for ICSA starting from 2026-10-17 00:00:00
+No new data returned for ICSA, skipping
+Max date for M1V: 2026-04-01 00:00:00
+Frequency short for M1V: Q
+Next read day for M1V: 2026-07-01 00:00:00
+Fetching data for M1V starting from 2026-07-01 00:00:00
+No new data returned for M1V, skipping
+Max date for M2V: 2026-04-01 00:00:00
+Frequency short for M2V: Q
+Next read day for M2V: 2026-07-01 00:00:00
+Fetching data for M2V starting from 2026-07-01 00:00:00
+No new data returned for M2V, skipping
+Max date for BOGMBASE: 2026-08-01 00:00:00
+Frequency short for BOGMBASE: M
+Next read day for BOGMBASE: 2026-08-31 00:00:00
+Fetching data for BOGMBASE starting from 2026-08-31 00:00:00
+No new data to append for BOGMBASE, skipping
+Max date for BOGMBBM: 2026-08-01 00:00:00
+Frequency short for BOGMBBM: M
+Next read day for BOGMBBM: 2026-08-31 00:00:00
+Fetching data for BOGMBBM starting from 2026-08-31 00:00:00
+No new data to append for BOGMBBM, skipping
+Max date for MBCURRCIR: 2026-08-01 00:00:00
+Frequency short for MBCURRCIR: M
+Next read day for MBCURRCIR: 2026-08-31 00:00:00
+Fetching data for MBCURRCIR starting from 2026-08-31 00:00:00
+No new data to append for MBCURRCIR, skipping
+Max date for PPIACO: 2026-09-01 00:00:00
+Frequency short for PPIACO: M
+Next read day for PPIACO: 2026-10-01 00:00:00
+Fetching data for PPIACO starting from 2026-10-01 00:00:00
+No new data returned for PPIACO, skipping
+Max date for PCUOMFGOMFG: 2026-09-01 00:00:00
+Frequency short for PCUOMFGOMFG: M
+Next read day for PCUOMFGOMFG: 2026-10-01 00:00:00
+Fetching data for PCUOMFGOMFG starting from 2026-10-01 00:00:00
+No new data returned for PCUOMFGOMFG, skipping
+Max date for PCUAINFOAINFO: 2026-09-01 00:00:00
+Frequency short for PCUAINFOAINFO: M
+Next read day for PCUAINFOAINFO: 2026-10-01 00:00:00
+Fetching data for PCUAINFOAINFO starting from 2026-10-01 00:00:00
+No new data returned for PCUAINFOAINFO, skipping
+Max date for PCUATRNWRATRNWR: 2026-09-01 00:00:00
+Frequency short for PCUATRNWRATRNWR: M
+Next read day for PCUATRNWRATRNWR: 2026-10-01 00:00:00
+Fetching data for PCUATRNWRATRNWR starting from 2026-10-01 00:00:00
+No new data returned for PCUATRNWRATRNWR, skipping
+Max date for WFRBST01134: 2026-04-01 00:00:00
+Frequency short for WFRBST01134: Q
+Next read day for WFRBST01134: 2026-07-01 00:00:00
+Fetching data for WFRBST01134 starting from 2026-07-01 00:00:00
+No new data returned for WFRBST01134, skipping
+Max date for WFRBLT01026: 2026-04-01 00:00:00
+Frequency short for WFRBLT01026: Q
+Next read day for WFRBLT01026: 2026-07-01 00:00:00
+Fetching data for WFRBLT01026 starting from 2026-07-01 00:00:00
+No new data returned for WFRBLT01026, skipping
+Max date for WFRBSN40188: 2026-04-01 00:00:00
+Frequency short for WFRBSN40188: Q
+Next read day for WFRBSN40188: 2026-07-01 00:00:00
+Fetching data for WFRBSN40188 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSN40188, skipping
+Max date for WFRBSB50215: 2026-04-01 00:00:00
+Frequency short for WFRBSB50215: Q
+Next read day for WFRBSB50215: 2026-07-01 00:00:00
+Fetching data for WFRBSB50215 starting from 2026-07-01 00:00:00
+No new data returned for WFRBSB50215, skipping
+Max date for GASDESW: 2026-10-19 00:00:00
+Frequency short for GASDESW: W
+Next read day for GASDESW: 2026-10-26 00:00:00
+Max date for APU000072610: 2026-09-01 00:00:00
+Frequency short for APU000072610: M
+Next read day for APU000072610: 2026-10-01 00:00:00
+Fetching data for APU000072610 starting from 2026-10-01 00:00:00
+No new data returned for APU000072610, skipping
+Max date for PNRGINDEXM: 2026-07-01 00:00:00
+Frequency short for PNRGINDEXM: M
+Next read day for PNRGINDEXM: 2026-07-31 00:00:00
+Fetching data for PNRGINDEXM starting from 2026-07-31 00:00:00
+No new data to append for PNRGINDEXM, skipping
+Max date for GDPC1: 2026-04-01 00:00:00
+Frequency short for GDPC1: Q
+Next read day for GDPC1: 2026-07-01 00:00:00
+Fetching data for GDPC1 starting from 2026-07-01 00:00:00
+No new data returned for GDPC1, skipping
+Max date for PSAVERT: 2026-08-01 00:00:00
+Frequency short for PSAVERT: M
+Next read day for PSAVERT: 2026-08-31 00:00:00
+Fetching data for PSAVERT starting from 2026-08-31 00:00:00
+No new data to append for PSAVERT, skipping
+Max date for TLCOMCONS: 2026-08-01 00:00:00
+Frequency short for TLCOMCONS: M
+Next read day for TLCOMCONS: 2026-08-31 00:00:00
+Fetching data for TLCOMCONS starting from 2026-08-31 00:00:00
+No new data to append for TLCOMCONS, skipping
+Max date for TLRESCONS: 2026-08-01 00:00:00
+Frequency short for TLRESCONS: M
+Next read day for TLRESCONS: 2026-08-31 00:00:00
+Fetching data for TLRESCONS starting from 2026-08-31 00:00:00
+No new data to append for TLRESCONS, skipping
+Thu Oct 22 03:03:06 AM PDT 2026
+Starting alpaca_updater.py
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 198, in _one_request
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://data.alpaca.markets/v2/stocks/bars?start=2026-10-20T04%3A00%3A00%2B00%3A00&end=2026-10-22T10%3A03%3A07.917616%2B00%3A00&timeframe=1Day&feed=iex&symbols=A&limit=10000
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 111, in fetch_bars
+    return bars_to_dataframe(client.get_stock_bars(request), ticker)
+                             ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/data/historical/stock.py", line 87, in get_stock_bars
+    raw_bars = self._get_marketdata(
+        path="/stocks/bars",
+        params=request_params.to_request_fields(),
+        page_size=10_000,
+    )
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 393, in _get_marketdata
+    response = self.get(path=path, data=params)
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 225, in get
+    return self._request("GET", path, data, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 131, in _request
+    return self._one_request(method, url, opts, retry)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/.venv/lib/python3.14/site-packages/alpaca/common/rest.py", line 207, in _one_request
+    raise APIError(error, http_error)
+alpaca.common.exceptions.APIError: <html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 195, in update_sp500_tables
+    update_ticker(client, db, connection, ticker, today)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 153, in update_ticker
+    dataframe = fetch_bars(client, ticker, start, today)
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 113, in fetch_bars
+    raise RuntimeError(f"Failed to fetch bars for {ticker}: {error}") from error
+RuntimeError: Failed to fetch bars for A: <html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 204, in <module>
+    update_sp500_tables()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/djmead/Documents/Projects/Financial/src/db/alpaca_updater.py", line 198, in update_sp500_tables
+    raise RuntimeError(f"Failed while updating {ticker}") from error
+RuntimeError: Failed while updating A
+Thu Oct 22 03:03:08 AM PDT 2026
+Financial repo daily cron job end.
